@@ -3,7 +3,10 @@
     ## Rintasyöpä (1A)
 
         ### Diagnostiikka
-
+            * Kolmoisdiagnostiikka, eli rintojen kliininen tutkiminen, mammografia sekä ultraäänitutkimus ja paksuneulabiopsia
+            * Kliinisessä tutkimuksessa oleellista rintojen ja kainaloiden inspektio sekä palpaatio
+                ** Huomioi erityisesti rintojen kokoero, epäsymmetria, ihottumat, haavaumat, punoitus, appelsiininkuori-iho, nännin sisäänvetäytyminen, mahdollisen nännieritten koostumus ja väri
+        
         ### Hoito pääpiirteittäin
 
         ### Seuranta
