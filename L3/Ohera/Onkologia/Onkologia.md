@@ -1,13 +1,5 @@
 # Onkologia
 
-## Lymfooma
-Imusolmukesyöpä:
-1. Hodgkinin tauti
-2. non-Hodgkin
-
-### Indolentti
-Follikulaarinen lymfooma
-
 
 ### Kemosädehoito
 Annetaan sädehoidolle herkistävää sytostaattia ja sitten sädetetään.
@@ -33,14 +25,6 @@ Solunsalpaajia ja vasta-aineita yhtä aikaa
 - Fluoraurasiili
 - Oksaaliplatina
 
-### Lymfoomien lääkeaineet
-- CHOP hoito (non-Hodgkin lymfoomat):
-    * C = Syklofosfamidia (syklofosfamidi) -> vioittaa solujen DNA:ta sitoutumalla siihen ja muodostamalla ristisidoksia
-    * H = Doksorubisiinia (hydroksidaunorubisiini) -> vioittaa solujen DNA:ta liittymällä emästen väliin
-    * O = Vinkristiiniä (oncoviini) -> estää solujen jakautumisen
-    * P = Prednisonia (prednisoloni) -> glukokortikoidi
-    * Jos CD-20 positiivinen B-solulymfooma: CHOP-hoitoa tehostetaan usein Rituksimabilla, koska se tehostaa solunsalpaajien tehoa huomattavasti
-
 
 ## Ydinainesanalyysi
 
@@ -50,6 +34,7 @@ Solunsalpaajia ja vasta-aineita yhtä aikaa
 Rintasyövän histologinen jaottelu:
 - Esiaste
     - DCIS (ductal carsinoma in situ) eli intraduktaalinen rintasyöpä
+        - Tyypillinen kuvantamislöydös ovat mikrokalkkiutumat
 - Invasiiviset rintasyövät:
     - Duktaalinen (70–80 % kaikista)
         - Tubulaarinen: hyvä ennuste
@@ -58,12 +43,20 @@ Rintasyövän histologinen jaottelu:
 
 Rintasyövän biologinen jaottelu:
 1. Luminaalinen A-tyyppi (suurin osa rintasyövistä)
-    - ER ja PR positiivinen
-    - HER-2 negatiivinen
+    - ER ja/tai PR positiivinen
+    - HER2 negatiivinen
     - Jakautuminen vähäistä
 2. Luminaalinen B-tyyppi
-3. HER-2 positiiviset
+    - ER ja/tai PR positiivinen
+    - HER2 negatiivinen
+    - Jakautuminen nopeampaa ja solukuva ärhäkkäämpi kuin A-tyypissä
+3. HER2 positiiviset
+    -  HER2-positiivisuus lisää syövän aggressiivisuutta, ja uusimisriski on suuri ilman täsmälääkehoitoa
 4. Triplanegatiiviset: heikompi ennuste kuin luminaalisilla A- ja B-tyypeillä
+    - Ei ER ja PR hormonireseptoreita
+    - Ei HER2-monistumaa
+
+Suomessa rintasyövän 5-vuotiselossaololuku on 91 %
 
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
 - Kolmoisdiagnostiikka, eli rintojen kliininen tutkiminen, mammografia sekä ultraäänitutkimus ja paksuneulabiopsia
@@ -74,8 +67,39 @@ Rintasyövän biologinen jaottelu:
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
 ### Urologiset syövät (1A)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
+
+
 ### Lymfoomat (1A)
+Eri jaottelut:
+- Hodgkin ja Non-Hodgkin lymfoomat
+- B-, T- ja NK-solulymfooma
+
+#### Lymfoomien lääkeaineet
+- CHOP hoito (non-Hodgkin lymfoomat):
+    * C = Syklofosfamidia (syklofosfamidi) -> vioittaa solujen DNA:ta sitoutumalla siihen ja muodostamalla ristisidoksia
+    * H = Doksorubisiinia (hydroksidaunorubisiini) -> vioittaa solujen DNA:ta liittymällä emästen väliin
+    * O = Vinkristiiniä (oncoviini) -> estää solujen jakautumisen
+    * P = Prednisonia (prednisoloni) -> glukokortikoidi
+    * Jos CD-20 positiivinen B-solulymfooma: CHOP-hoitoa tehostetaan usein Rituksimabilla, koska se tehostaa solunsalpaajien tehoa huomattavasti
+
+### Lymfooman altistavat tekijät
+- Immuunivajaustilat ja immuunijärjestelmän häiriöt
+    * Autoimmuunisairaudet
+    * Infektiot
+- Transformoivat virukset
+    * EBV
+    * HTLV 1 (& 2)
+- Immunosuppressiota tai kroonista immuuniaktivaatiota aiheuttavat
+    * HIV
+    * HHV8
+    * HCV
+
+#### Indolentti
+Follikulaarinen lymfooma
+
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
+
+
 ### Ylä GI-kanavan syövät (2B)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (2B)
 ### Harvinaisemmat syövät (aivokasvaimet, kilpirauhasen syöpä, pään ja kaulan alueen syöpä, kiveskasvaimet, sarkoomat, levinnyt melanooma) (2B)

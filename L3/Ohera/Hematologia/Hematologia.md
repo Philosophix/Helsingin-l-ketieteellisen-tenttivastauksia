@@ -3,7 +3,7 @@
 ## Yleistä
 
 ### Mitä ovat B-oireet?
-Viittaavat maligniteettiin (käyttää paljon energiaa)
+Viittaavat maligniteettiin (käyttää paljon energiaa): perintesesti lymfoomaan
 1. Tahaton laihtuminen
 2. Poikkeava väsymys
 3. Yöhikoilu
@@ -72,23 +72,6 @@ Liikaa blasteja
 
 #### ALL
 
-
-## Lymfooma
-Eri jaottelut:
-- Hodgkin ja Non-Hodgkin lymfoomat
-- B-, T- ja NK-solulymfooma
-
-### Lymfooman altistavat tekijät
-- Immuunivajaustilat ja immuunijärjestelmän häiriöt
-    * Autoimmuunisairaudet
-    * Infektiot
-- Transformoivat virukset
-    * EBV
-    * HTLV 1 (& 2)
-- Immunosuppressiota tai kroonista immuuniaktivaatiota aiheuttavat
-    * HIV
-    * HHV8
-    * HCV
 
 
 
