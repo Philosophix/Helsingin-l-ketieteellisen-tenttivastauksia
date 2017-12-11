@@ -16,14 +16,7 @@ Solunsalpaajia ja vasta-aineita yhtä aikaa
 
 ## Lääkeaineet
 
-### Rintasyövän lääkeaineet
-- Doketakseli
-- Cef
-
 ### Suolistosyövän lääkeaineet
-- Kapesitapiini
-- Fluoraurasiili
-- Oksaaliplatina
 
 
 ## Ydinainesanalyysi
@@ -37,9 +30,27 @@ Rintasyövän histologinen jaottelu:
         - Tyypillinen kuvantamislöydös ovat mikrokalkkiutumat
 - Invasiiviset rintasyövät:
     - Duktaalinen (70–80 % kaikista)
-        - Tubulaarinen: hyvä ennuste
-        - Musinoottinen: hyvä ennuste
     - Lobulaarinen  (10–15 % kaikista)
+        - Leviää muita tyyppejä useammin vatsaontelon elimiin
+        - Lobulaarinen carcinoma in situ ei ole syöpä
+    - Erikoistyypit (ennuste yleensä parempi kuin duktaalisella ja lobulaarisella):
+        - Papillaarinen karsinooma
+            - Sekä invasiivinen että in situ muoto
+            - Muodostaa tiehyiden sisällä kasvaessaan papillaarisia rakenteita
+        - Medullaarinen karsinooma
+            - Esiintyy laajoina huonosti erilaistuneina saarekkeina, jotka rajautuvat suhteellisen selkeästi kasvainta ympäröivään rintarauhaseen ("pushing border")
+            - Liittyy usein BRCA-mutaatioon
+        - Musinoottinen karsinooma
+            - Esiintyy runsaasti solun ulkopuolista limaa
+            - Usein vanhoja potilaita
+        - Tubulaarinen karsinooma
+            - Hyvin erilaistunut duktaalinen karsinooma
+            - Koko kasvaimen alueella esiintyy pienikokoisia säännöllisiä rauhasrakenteita
+            - Erityisen hyvä ennuste
+        - Pagetin tauti
+            - Nännin tai nännipihan ihon in situ-asteinen adenokarsinooma
+            - Mamillan epidermiksessä karsinoomasolusaarekkeita
+            - Pagetin tautiin liittyy lähes aina intraduktaalinen tai invasiivinen karsinooma
 
 Rintasyövän biologinen jaottelu:
 1. Luminaalinen A-tyyppi (suurin osa rintasyövistä)
@@ -56,16 +67,53 @@ Rintasyövän biologinen jaottelu:
     - Ei ER ja PR hormonireseptoreita
     - Ei HER2-monistumaa
 
-Suomessa rintasyövän 5-vuotiselossaololuku on 91 %
+#### Rintasyövän ennuste
+- Riippuu alatyypistä
+- Suomessa rintasyövän 5-vuotiselossaololuku on 91 %
+- 75–80 % parantunee pysyvästi
 
-#### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
-- Kolmoisdiagnostiikka, eli rintojen kliininen tutkiminen, mammografia sekä ultraäänitutkimus ja paksuneulabiopsia
-- Kliinisessä tutkimuksessa oleellista rintojen ja kainaloiden inspektio sekä palpaatio
-- Huomioi erityisesti rintojen kokoero, epäsymmetria, ihottumat, haavaumat, punoitus, appelsiininkuori-iho, nännin sisäänvetäytyminen, mahdollisen nännieritteiden koostumus ja väri
-        
+#### Rintasyövän diagnostiikka (1A)
+- Kolmoisdiagnostiikka
+    1. Rintojen kliininen tutkiminen
+        - Kliinisessä tutkimuksessa oleellista rintojen ja kainaloiden inspektio sekä palpaatio
+        - Huomioi erityisesti:
+            - Rintojen kokoero
+            - Epäsymmetria
+            - Ihottumat
+            - Haavaumat
+            - Punoitus
+            - Appelsiininkuori-iho
+            - Nännin sisäänvetäytyminen
+            - Mahdollisen nännieritteiden koostumus ja väri
+    2. Mammografia sekä ultraäänitutkimus
+    3. Paksuneulabiopsia
+
+#### Rintasyövän hoito pääpiirteittäin (1A)
+- Doketakseli
+- Cef
+
+#### Rintasyövän seuranta (1A)
+
+#### Rintasyövän kuntoutus (1A)
+Leikatun potilaan tulee aloittaa yläraajan ja olkanivelen alueen liikeharjoitukset mahdollisimman pian leikkauksen jälkeen, ja potilaan tulee jatkaa tätä jokapäiväisenä kuntoutuksena tarvittaessa koko loppuelämän ajan
+
+
 ### Suolistosyöpä (1A)
-#### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
+
+#### Suolistosyövän diagnostiikka (1A)
+
+#### Suolistosyövän seuranta  (1A)
+
+#### Suolistosyövän hoito (1A)
+- Kapesitapiini
+- Fluoraurasiili
+- Oksaaliplatina
+
+#### Suolistosyövän kuntoutus (1A)
+
+
 ### Urologiset syövät (1A)
+
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
 
 
