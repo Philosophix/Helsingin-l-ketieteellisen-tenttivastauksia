@@ -21,11 +21,6 @@ Elävässä organismissa tuotettu lääke, yleensä proteiini.
 ### Kemoimmunoterapia
 Solunsalpaajia ja vasta-aineita yhtä aikaa
 
-### Dokegef
-
-### Oksaaliplatina
-
-### Doketakseli
 
 ## Lääkeaineet
 
@@ -51,17 +46,39 @@ Solunsalpaajia ja vasta-aineita yhtä aikaa
 
 ## Eri syöpätyypit
 
-### Rintasyöpä
+### Rintasyöpä (1A)
+Rintasyövän histologinen jaottelu:
+- Esiaste
+    - DCIS (ductal carsinoma in situ) eli intraduktaalinen rintasyöpä
+- Invasiiviset rintasyövät:
+    - Duktaalinen (70–80 % kaikista)
+        - Tubulaarinen: hyvä ennuste
+        - Musinoottinen: hyvä ennuste
+    - Lobulaarinen  (10–15 % kaikista)
+
+Rintasyövän biologinen jaottelu:
+1. Luminaalinen A-tyyppi (suurin osa rintasyövistä)
+    - ER ja PR positiivinen
+    - HER-2 negatiivinen
+    - Jakautuminen vähäistä
+2. Luminaalinen B-tyyppi
+3. HER-2 positiiviset
+4. Triplanegatiiviset: heikompi ennuste kuin luminaalisilla A- ja B-tyypeillä
+
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
-### Suolistosyöpä
+- Kolmoisdiagnostiikka, eli rintojen kliininen tutkiminen, mammografia sekä ultraäänitutkimus ja paksuneulabiopsia
+- Kliinisessä tutkimuksessa oleellista rintojen ja kainaloiden inspektio sekä palpaatio
+- Huomioi erityisesti rintojen kokoero, epäsymmetria, ihottumat, haavaumat, punoitus, appelsiininkuori-iho, nännin sisäänvetäytyminen, mahdollisen nännieritteiden koostumus ja väri
+        
+### Suolistosyöpä (1A)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
-### Urologiset syövät
+### Urologiset syövät (1A)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
-### Lymfoomat
+### Lymfoomat (1A)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
-### Ylä GI-kanavan (sövät)
+### Ylä GI-kanavan syövät (2B)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (2B)
-### harvinaisemmat syövät (aivokasvaimet, kilpirauhasen syöpä, pään ja kaulan alueen syöpä, kiveskasvaimet, sarkoomat, levinnyt melanooma)
+### Harvinaisemmat syövät (aivokasvaimet, kilpirauhasen syöpä, pään ja kaulan alueen syöpä, kiveskasvaimet, sarkoomat, levinnyt melanooma) (2B)
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (2B)
 
 

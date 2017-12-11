@@ -160,6 +160,120 @@ Hoito:
 - Tunnistaa hyvänlaatuinen monoklonaalinen gammopatia ja myelooma
 
 ## Hyytymishäiriöt
+### Hemostaasin vaiheet:
+    - Primäärihemostaasi
+        - Trombosyytit
+        - von Willebrantin faktori
+        - Endoteliini
+        - Verisuonten kontraktio
+    - Sekundäärihemostaasi
+        - Fibrinogeeni fibriiniksi trombiinilla, joka tulee protrombiinista (FV ja FX) ja tromboplastiinista
+        - Trombiiniin yritetään vaikuttaa lääkeaineilla joko suoraan tai FX kautta
+### Hemostaasin häiriöiden oireet
+    - Primäärihemostaasi
+        - Limakalvovuodot
+    - Sekundäärihemostaasi
+        - Sisäisiä vuotoja nivelissä ja lihaksissa -> ei näy niin helposti
+### Mitä kysyä potilaalta jolla epäillään hyytymishäiriötä?
+    - Nenävuoto?
+    - Ienvuoto
+    - Mustelmaherkkyys
+    - Sukutausta
+### Mitkä tekijät lisäävät vuotoriskiä?
+    - Trombosytopenia (< 10-15 spontaaneja verenvuotoja jos trombosyytit normaaleja)
+        - Syntyy liian vähän trombosyyttejä
+            - Aplastinen anemia
+        - Trombosyyttejä hajotetaan (trombosyyttien normaali elinaika 8-10 vrk)
+            - ITP: immuunisysteemi hajottaa trombosyyttejä pääasiassa pernassa
+                - Jaottelu
+                    - Akuutti
+                        - Yleisin lapsilla (paranee yleensä spontaanisti)
+                        - Ei splenomegaliaa
+                    - Krooninen
+                        - Splenomegalia
+                        - Krooninen ITP liittyy yleensä toiseen perussairauteen
+                - Laboratoriolöydökset:
+                    - Vain trombosyytit matalia (Hb voi olla myös matala jos ollut vuotoja)
+                - Hoito
+                    - Aikuisille kortisonia (yleensä po.) tai gammaglobuliinia: trombosyytit lisääntyvät 2-7 vrk
+                    - Lapsilla odotetaan ennen kuin annetaan kortisonia (n. 2 viikkoa)
+                - Erotettava TTP:stä
+            - TTP (tromboottinen trombosytopeninen purppura)
+                - Tromboottinen mikroangiopatia
+                - Diagnosoidaan mikroskopoimalla perifeeristä verta
+            - Ei immuuniperäiset:
+                - DIC (disseminated intravascular coagulation)
+    - Lääkkeet:
+        - ASA
+        - NSAID
+        - Omega 3
+        - SSRI
+        - SNRI
+        - Antitromboottiset lääkkeet
+    - Sairaudet:
+        - Munuaisten vajaatoiminta
+        - Maksasairaudet
+        - Munuaissairaudet
+            - Vähemmän EPO:a -> vähemmän punasoluja -> anemia -> matala hemokriitti (< 30), johtaa vuotoriskiin
+        - Alkoholismi
+        - RR -> splenomegalia
+        - K-vitamiini ongelmat
+            - Inflammatoriset suolistosairaudet
+            - Pitkäaikainen antibioottihoito
+            - Maksastaasi
+        - Perinnölliset sairaudet:
+            - Hemofilia A, B ja C -> pidentynyt APTT (voi myös olla vaikeassa von Willebrantissa, lupus antikoagulanssi -> tromboosiriski)
+            - von Willebrand:in tauti (tyyppi 1, 2 ja 3)
+                - Epäiltävä jos anemisoitumiselle ei löydy selitystä
+                - Hoito:
+                    - Desmopressiini
+            - Lupus antikoagulanssi: vaikuttaa trombosyytteihin, koagulaatiofaktoreihin ja endoteeliin
+
+### Mitä laboratoriokokeita otetaan kun epäillään vuotohäiriötä?
+- TT ja APTT
+- PVK (krea, afos, alat)
+- CRP
+- Ca
+    
+### Tromoboosiriskiä lisää:
+- Leikkaukset (ortopediset jne.)
+- Perinnölliset tekijät
+    - FV Leiden mutaatio jolloin APC ei pysty pilkkomaan FV:ttä
+    - APC resistenssi (heterotsygootit 5x, homotsygootit 20x)
+    - Protrombiini-mutaatio (proteiini s ja c)
+- Tulehdukselliset sairaudet
+    - Crohnin tauti
+
+### Missä syvälaskimotrombooseja esiintyy?
+- Alaraajat
+- Yläraajat
+
+### Alaraajan syvälaskimotromboosin diagnoosi
+- Turvotus
+- Kipu
+- Differentiaalidiagnostiikka
+    - Bakerin kystan ruptuura
+        - Vanhemmat ihmiset
+        - Polvitraumat
+
+### Mitä laboratoriotutkimuksia on tehtävä kun epäillään syvälaskimotromboosia?
+- D-dimeeri (jos ei koholla tromboosi epätodennäköinen, voi olla koholla myös muista syistä)
+    - Jos positiivinen, kuvannetaan (UÄ)
+
+### Syvälaskimotromboosin hoito
+- Aluksi jalan kohoasento ja tarvittaessa sitominen
+- Klassinen hoito (3-6 kk, 3 kk jos ei riskitekijöitä)
+    - Pienimolekulaarinen hepariini tai fondaparinuuksi napapiikkinä 1 tai 2 kertaa päivässä n. 5 vrk
+        - Tai dabigatraani 5 hepariinipäivän jälkeen
+    - Varfariini tai muu suora antikoagulantti (rivaroksabaani ilman hepariinia joka toimii suojana varfariinin alun protrombiiniseen vaikutukseen)
+
+### Tromboosiriskiä lisäävät syövät
+- Haimasyöpä
+- Peräsuolisyöpä
+- Maksasyöpä
+- Rintasyöpä
+- Eturauhassyöpä
+
 - Ymmärtää hemostaasin fysiologia ja tromboosin patofysiologia
 - Osata selvittää verenvuoto- ja tukostaipumuksen syitä (perustutkimukset)
 - Tuntea yleisimmät antitromboottiset hoidot (indikaatiot, annostelu ja ongelmat)
