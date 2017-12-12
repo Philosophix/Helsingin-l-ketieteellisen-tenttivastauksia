@@ -8,6 +8,9 @@ Annetaan sädehoidolle herkistävää sytostaattia ja sitten sädetetään.
 ### Neoadjuvanttihoito
 Lääkehoito ennen varsinaista hoitoa. Esimerkiksi solunsalpaajahoito jolla pyritään pienentämään kasvainta ennen leikkausta.
 
+### Adjuvanttihoito
+Lääkehoito varsinaisen hoidon jälkeen.
+
 ### Mikä on biologinen lääke?
 Elävässä organismissa tuotettu lääke, yleensä proteiini.
 
@@ -16,6 +19,22 @@ Solunsalpaajia ja vasta-aineita yhtä aikaa
 
 ### Tarvitaanko rintasyövässä säästävän leikkauksen jälkeen vielä sädehoitoa?
 Säästävän leikkauksen jälkeen annetaan aina vielä sädehoito
+
+### Medullakompression aiheuttajat
+Metastasoitunut:
+- Rintasyöpä
+- Prostatasyöpä
+- Lymfooma
+
+### Medullakompression kuvantaminen
+- MRI paras
+- TT + varjoaine joskus riittävä
+
+### Medullakompression hoito
+- Kirurginen hoito on nopein dekompressiomuoto
+    - Ei onnistu mikäli levinnyt useampaan nikamaan
+- Sädehoito mikäli kirurgia ei ole mahdollinen
+- Lääkehoidon kulmakivi on korea-annoksinen glukokortikoidi
 
 
 ## Eri syöpätyypit
