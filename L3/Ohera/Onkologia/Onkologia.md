@@ -1,11 +1,12 @@
 # Onkologia
 
+## Yleistä
 
 ### Kemosädehoito
 Annetaan sädehoidolle herkistävää sytostaattia ja sitten sädetetään.
 
-### Tarvitaanko rintasyövässä säästävän leikkauksen jälkeen vielä sädehoitoa?
-Säästävän leikkauksen jälkeen annetaan aina vielä sädehoito
+### Neoadjuvanttihoito
+Lääkehoito ennen varsinaista hoitoa. Esimerkiksi solunsalpaajahoito jolla pyritään pienentämään kasvainta ennen leikkausta.
 
 ### Mikä on biologinen lääke?
 Elävässä organismissa tuotettu lääke, yleensä proteiini.
@@ -13,19 +14,16 @@ Elävässä organismissa tuotettu lääke, yleensä proteiini.
 ### Kemoimmunoterapia
 Solunsalpaajia ja vasta-aineita yhtä aikaa
 
+### Tarvitaanko rintasyövässä säästävän leikkauksen jälkeen vielä sädehoitoa?
+Säästävän leikkauksen jälkeen annetaan aina vielä sädehoito
 
-## Lääkeaineet
-
-### Suolistosyövän lääkeaineet
-
-
-## Ydinainesanalyysi
 
 ## Eri syöpätyypit
 
 ### Rintasyöpä (1A)
-Rintasyövän histologinen jaottelu:
-- Esiaste
+
+#### Rintasyövän histologinen jaottelu
+- Syövän esiaste:
     - DCIS (ductal carsinoma in situ) eli intraduktaalinen rintasyöpä
         - Tyypillinen kuvantamislöydös ovat mikrokalkkiutumat
 - Invasiiviset rintasyövät:
@@ -51,8 +49,14 @@ Rintasyövän histologinen jaottelu:
             - Nännin tai nännipihan ihon in situ-asteinen adenokarsinooma
             - Mamillan epidermiksessä karsinoomasolusaarekkeita
             - Pagetin tautiin liittyy lähes aina intraduktaalinen tai invasiivinen karsinooma
+    - Tulehduksellinen rintasyöpä
+        - Käsittää tyypillisesti lähes koko rinnan, joka on turvonnut, punoittava ja kuumottava
+        - Iholla voidaan nähdä appelsiininkuorimaista kuoppaisuutta
+        - Tulehduksellisessa rintasyövässä ei usein ole palpoitavissa minkäänlaista kyhmyä
+        - Diagnoosi varmistuu kuvantamalla ja neulanäytteillä
+        - Huono ennuste. Erittäin aggressiivinen.
 
-Rintasyövän biologinen jaottelu:
+#### Rintasyövän biologinen jaottelu
 1. Luminaalinen A-tyyppi (suurin osa rintasyövistä)
     - ER ja/tai PR positiivinen
     - HER2 negatiivinen
@@ -67,8 +71,12 @@ Rintasyövän biologinen jaottelu:
     - Ei ER ja PR hormonireseptoreita
     - Ei HER2-monistumaa
 
-#### Rintasyövän ennuste
-- Riippuu alatyypistä
+#### Mikä kyhmy rinnassa yleensä on?
+Kaikki kyhmyt eivät ole syöpää vaan useimmiten fibroadenoomia tai joskus kystia
+
+#### Rintasyövän insidenssi ja ennuste
+- Rintasyövän insidenssi Suomessa 170/100.000
+- Ennuste riippuu alatyypistä
 - Suomessa rintasyövän 5-vuotiselossaololuku on 91 %
 - 75–80 % parantunee pysyvästi
 
@@ -87,12 +95,18 @@ Rintasyövän biologinen jaottelu:
             - Mahdollisen nännieritteiden koostumus ja väri
     2. Mammografia sekä ultraäänitutkimus
     3. Paksuneulabiopsia
+- Vain pienen oireettoman fibroadenooman voi jättää lähettämättä kirurgille
 
 #### Rintasyövän hoito pääpiirteittäin (1A)
 - Doketakseli
 - Cef
 
 #### Rintasyövän seuranta (1A)
+- Säännölliset mammografiat joita voidaan täydentää ultraäänitutkimuksin
+- Hoidon sivuvaikutukset:
+    - Yläraajaturvotus
+    - Vaihdevuosioireet hormonihoidosta
+- Seurattava potilaan psyykkistä jaksamista
 
 #### Rintasyövän kuntoutus (1A)
 Leikatun potilaan tulee aloittaa yläraajan ja olkanivelen alueen liikeharjoitukset mahdollisimman pian leikkauksen jälkeen, ja potilaan tulee jatkaa tätä jokapäiväisenä kuntoutuksena tarvittaessa koko loppuelämän ajan
@@ -113,6 +127,7 @@ Leikatun potilaan tulee aloittaa yläraajan ja olkanivelen alueen liikeharjoituk
 
 
 ### Urologiset syövät (1A)
+- Eturauhassyövän insidenssi Suomessa 210/100.000
 
 #### Diagnostiikka, hoito pääpiirteittäin, seuranta ja kuntoutus (1A)
 
