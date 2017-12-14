@@ -36,6 +36,11 @@ Metastasoitunut:
 - Sädehoito mikäli kirurgia ei ole mahdollinen
 - Lääkehoidon kulmakivi on korea-annoksinen glukokortikoidi
 
+### Syöpäpotilaan tärkeimmät komplikaatiot
+- Medullakompressio
+- Neutropeninen infektio
+- Yläonttolaskimotukos
+    - Yleensä keuhkosyöpä (80 %) tai lymfooma
 
 ## Eri syöpätyypit
 

@@ -1,5 +1,15 @@
 # Reuma
 
+## Miltä näyttää reumaattinen artroosi suhteessa artroosiin nivelessä?
+- Symmetrinen nivelraon pienentyminen
+- Eroosio
+- Osteoporoosi
+
+Artroosi
+- Osteofyytit
+- Epäsymmetrinen nivelraon pienentyminen
+- Subkondraali skleroosi
+
 ## Reumaattiset sairaudet luettelo, epidemiologia 
 - Inflammatoriset
     * RA (n. 50 vuotiailla)
@@ -197,8 +207,22 @@ Jos vuoden oireeton:
 ## Nivelreuma
 
 ### Oireet
+- Oireet kestäneet vähintään kuukausia
+- Aamujäykkyys vähintään 60 min
 
 ### Diagnostiikka
+- PVK
+- Reumafaktori
+- CCP-vasta-aineet
+- CRP
+- Lasko
+- Tumavasta-aineet
+    - SLE
+    - Sjögrenin syndrooma
+    - Skleroderma
+- Virtsakoe
+    - Hematuria
+    - Proteinuria
 
 ### Hoito (lääke-, kirurgia-, kuntoutus)
 
@@ -209,21 +233,44 @@ Jos vuoden oireeton:
 
 ### Selkärankareuma
 - Ominaispiirteet
+    - SI-nivel jäykkyys
 - Diagnoosi
 - Hoito
 - Ennuste 
 
 ### Nivelpsoriaasi
 - Ominaispiirteet
+    - Alkaa yleensä DIP nivelistä
+    - Enteosyyttejä DIP nivelissä (ei luun uusiomuodostusta pelkästään nivelraon reunallam kuten artroosissa, vaan laajemmin)
+    - Ei yleensä symmetrisesti niveloireita
+    - Makkarasormet/varpaat
 - Diagnoosi
 - Hoito
+    - Syklosporiini
+    - Metotreksaatti
 - Ennuste 
 
 ### Reaktiivinen artriitti
 - Ominaispiirteet
+    - Menee yleensä ohi puolessa vuodessa
+    - Tyypillisesti HLA-B27 positiivinen (14 % suomalaisista)
+    - Aiheuttajat:
+        - Klamydia
+        - Salmonella
+        - Shigella
+        - Yersinia
 - Diagnoosi
 - Hoito
 - Ennuste 
+
+### Septinen artriitti
+Oireet:
+- Pääosin yhden nivelen tauti
+Yleisimmät aiheuttajat:
+- Stafylokokki
+- A-streptokokki
+Myös:
+- Gonokokki
 
 ### Enteropaattiset artriitit
 - Ominaispiirteet
@@ -343,7 +390,7 @@ Pseudokihdissä kalkkikristalleja
     - ANA 5 % positiivisia populaatiossa
 
 ### Systeeminen skleroosi
-- Skleroosi tarkoittaa kovettunutta ihoa
+- Skleroosi tarkoittaa kovettunutta kudosta tai muita anatomisia piirteitä
 - Muistuttaa SLE:tä (vasta-aineet)
 - Harvinaisempi kuin SLE (28/100.000)
 - Punainen lamppu jos sekä että:
