@@ -15,7 +15,10 @@ Joskus myös:
 Remissio on hoidettu syöpä ja relapsi on syövän uusiutuminen.
 
 ### Makrosytoosi
-Korkea MCV -> pitää herättää epäily B12-puutteesta
+Punasolujen suurentuminen (korkea MCV) -> pitää herättää epäily B12-puutteesta
+
+### Granulosytoosi
+Paljon granulosyyttejä perifeerisessä veressä
 
 ### Retikulosyytit
 - Aikuisilla 0,6-2 %
@@ -27,15 +30,27 @@ Korkea MCV -> pitää herättää epäily B12-puutteesta
 - Matalia arvoja esiintyy aplastisessa anemiassa
 
 ### Trombosytoosi
-Normaalit syyt:
-- Liikunta
-- Synnytys
-Sekundaarisen eli reaktiivisen trombosytoosin syyt:
+Primaariset eli maligneihin veritauteihin liittyvät trombosytoosit
 - Polysytemia vera
 - Essentiaalinen trombosytemia
 - Myelofibroosi
 - KML
 
+Sekundaariset eli reaktiiviset trombosytoosit
+- Akuutti ja krooninen vuoto
+- Akuutti ja krooninen infektio
+- Nivelreuma
+- Raju liikunta
+- Synnytys
+- Raudanpuute
+- Hemolyyttinen anemia
+
+### Suurentunut lasko (hypersedimentaatio)
+- Laskon suuruus riippuu pääosin plasman fibrinogeenin pitoisuudesta
+- Lasko mittaa epäsuorasti plasman akuutin vaiheen proteiinien pitoisuuksia ja sen suuruuteen voivat vaikuttaa huomattavasti:
+    - Punasolujen määrä, koko ja muoto
+    - Muiden plasman komponenttien, kuten immunoglobuliinien määrä
+    
 
 ## Ydinanalyysi ->
 
@@ -82,7 +97,7 @@ Tärkeä kun diagnosoidaan:
 - Luuytimeen metastasoineissa syövissä
 - Joskus myös kertymäsairauksissa
 
-### Geeniperimältään suomalaisen potilaan verenkuvan mahdolliset muutokset
+### Geeniperimältään ei-suomalaisen potilaan verenkuvan mahdolliset muutokset
 - Talassemia
 - Sirppisoluanemia
 
@@ -91,13 +106,43 @@ Tärkeä kun diagnosoidaan:
     - Neutrosytoosi
 
 ### Veriryhmät
+- ABO
+    - A-veriryhmän punasolujen pinnalla on antigeeni A:ta, ja heidän veressään on antigeeni B:n vasta-aineita
+    - B-veriryhmän punasolujen pinnalla on antigeeni B:tä, ja heidän veressään on antigeeni A:n vasta-ainetta
+    - AB-veriryhmän punasolujen pinnalla on sekä antigeeni A:ta että B:tä eikä heillä ole veressään vasta-ainetta kummallekaan
+    - O-veriryhmän punasolujen pinnalla ei ole kumpaakaan antigeeniä, mutta heidän veressään on A ja B antigeenien vasta-aineita
 
 ### Verisiirtojen tärkeimmät aiheet ja käytännön toteutus
+- Anemia
+- Leikkaus
+- Trauma jossa menetetty paljon verta
+- Synnytys jossa menetetty paljon verta
+- Syöpäpotilaat
+- Hemofilia ja talassemia
 
 ### ITP
+- Immunologisessa trombosytopeniassa vasta-aineiden muodostuminen johtaa trombosyyttien tuhoutumiseen lähinnä pernassa tai maksassa
+
+Jaottelu:
+- Akuutti
+    - Yleisin lapsilla (paranee yleensä spontaanisti)
+    - Ei splenomegaliaa
+- Krooninen
+    - Splenomegalia
+    - Krooninen ITP liittyy yleensä toiseen perussairauteen
+
 Oireet:
+- Tavallisin oire on verenpurkaumataipumus -> mustelmataipumus
+- Pienen trombosyyttimäärän seurauksena voi myös tulla nenä- tai ienverenvuotoa tai kuukautiset voivat muuttua aiempaa runsaammiksi
+
 Diagnoosi:
+- Vain trombosyytit matalia (Hb voi olla myös matala jos ollut vuotoja)
+- Erotettava TTP:stä
+
 Hoito:
+- Aikuisille kortisonia (yleensä po.) tai gammaglobuliinia: trombosyytit lisääntyvät 2-7 vrk
+- Lapsilla odotetaan ennen kuin annetaan kortisonia (n. 2 viikkoa)
+
 
 ## Pahanlaatuiset verisairaudet
 
@@ -117,12 +162,12 @@ Oireet:
 - Päänsärky
 - Näköhäiriöt
 - Erilaisia kehon puutumisoireita
+
 Diagnoosi:
-- PVK
+- Verenkuva
     - Anemia
     - Trombosytopenia
     - Leukosytoosi tai leukosytopenia
-- Valkosolujen erittyelylaskenta (diffi)
     - Blasteja (blastikriisissä blastit > 20 % tumallisista soluista veressä tai luuytimessä)
 - JATKOTUTKIMUKSET KIIREELLISENÄ!
 
@@ -160,11 +205,10 @@ Oireet:
 - Splenomegalia (49 %)
 - Hepatomegalia (45 %)
 Diagnoosi:
-- PVK
+- Verenkuva
     - Yleensä leukosytoosi (mutta voi olla mitä vaan)
     - Anemia
     - Trombosytopenia
-- Valkosolujen erittelylaskenta (diffi)
     - Neutropenia
 - Verisivelynäyte
     - Blasteja (morfologia L1, L2 tai L3)
@@ -176,7 +220,8 @@ ALL ja NHL diffi:
 
 #### KML
 - Krooninen myelooinen leukemia
-- 15 % leukemioista
+- 1 uusi tapaus / 100 000 aikuista / vuosi
+- 20 % leukemioista
 - Yleisempi vanhuksilla
 - Philadelphia kromosomi (9 ja 22 osien välien siirtymä eli translokaatio -> syntyy fuusiogeeni ns. BCR-ABL-yhdistelmägeeni)
 - Blastikriisi: kml:n viimeinen vaihe
@@ -186,13 +231,14 @@ ALL ja NHL diffi:
 
 Oireet:
 - Usein sattumalöydöksenä
+
 Diagnoosi:
 - Diagnoosi tehdään luuydinnäytteestä, jossa nähdään mikroskoopilla tutkittaessa poikkeavan muotoisia soluja.
-- PVK
-    - Leukosyytit +
-    - Trombosyytit +
+- Verenkuva
+    - Leukosytoosi
+    - Trombosyytoosi
 Hoito:
-- Hoito heti
+- Oireettomalla potilaalla ei ole kiire
 - Tyrosiinikinaasiestäjillä (TKI), jotka estävät BCR-ABL-yhdistelmägeenin tuottaman virheellisen tyrosiinikaasiproteiinin toimintaa
 
 
@@ -384,19 +430,6 @@ Hoito:
         - Aplastinen anemia
     - Trombosyyttejä hajotetaan (trombosyyttien normaali elinaika 8-10 vrk)
         - ITP: immuunisysteemin vasta-aineet hajottavat trombosyyttejä pääasiassa pernassa
-            - Jaottelu
-                - Akuutti
-                    - Yleisin lapsilla (paranee yleensä spontaanisti)
-                    - Ei splenomegaliaa
-                - Krooninen
-                    - Splenomegalia
-                    - Krooninen ITP liittyy yleensä toiseen perussairauteen
-            - Laboratoriolöydökset:
-                - Vain trombosyytit matalia (Hb voi olla myös matala jos ollut vuotoja)
-            - Hoito
-                - Aikuisille kortisonia (yleensä po.) tai gammaglobuliinia: trombosyytit lisääntyvät 2-7 vrk
-                - Lapsilla odotetaan ennen kuin annetaan kortisonia (n. 2 viikkoa)
-            - Erotettava TTP:stä
         - TTP (tromboottinen trombosytopeninen purppura)
             - Tromboottinen mikroangiopatia
             - Diagnosoidaan mikroskopoimalla perifeeristä verta
