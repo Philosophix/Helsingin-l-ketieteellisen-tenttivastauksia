@@ -50,6 +50,10 @@ Sekundaariset eli reaktiiviset trombosytoosit
 - Lasko mittaa epäsuorasti plasman akuutin vaiheen proteiinien pitoisuuksia ja sen suuruuteen voivat vaikuttaa huomattavasti:
     - Punasolujen määrä, koko ja muoto
     - Muiden plasman komponenttien, kuten immunoglobuliinien määrä
+
+### APC resistenssi
+- APC = activated protein C
+- Hyytymistekijä V on muuttunut pistemutaation vuoksi niin, että APC ei pysty sitä inaktivoimaan - ilmiöstä käytetään nimeä APC-resistenssi
     
 
 ## Ydinanalyysi ->
@@ -500,10 +504,10 @@ Hoito:
     - Varfariini tai muu suora antikoagulantti (rivaroksabaani ilman hepariinia joka toimii suojana varfariinin alun protrombiiniseen vaikutukseen)
 
 ### Tromboosiriskiä lisäävät syövät
+- Rintasyöpä
+- Maksasyöpä
 - Haimasyöpä
 - Peräsuolisyöpä
-- Maksasyöpä
-- Rintasyöpä
 - Eturauhassyöpä
 
 ### Ymmärtää hemostaasin fysiologia ja tromboosin patofysiologia
@@ -522,7 +526,7 @@ Hoito:
 - po.
 
 ### Hepariini
-- Hepariinin enemmän trombiinin estoa 
+- Hepariini sitoutuu antitrombiiniin, jonka seurauksena AT inhiboi Xa:n ja trombiinin toimintaa -> koagulaatio estyy
 - Kumoaja protamiinisulfaatti
 - Vaikea ennustaa vaikutuksen suuruutta
 - HIT (hepariinin indusoima trombosytopenia)
