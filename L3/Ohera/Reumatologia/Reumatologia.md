@@ -8,7 +8,7 @@
 Artroosi
 - Osteofyytit
 - Epäsymmetrinen nivelraon pienentyminen
-- Subkondraali skleroosi
+- Subkondraali skleroosi (luu kasvaa paksumpana takaisin)
 
 ## Reumaattiset sairaudet luettelo, epidemiologia 
 - Inflammatoriset
@@ -53,7 +53,11 @@ Artroosi
 
 ## Tulehdukselliset nivelsairaudet? Mitkä ovat tavallisia – epätavallisia? insidenssi/prevalenssi? Sukujakauma, ikäjakauma? Riskitekijät?
 - Nivelreuma
+    - n. 45 / 100 000 / vuosi
+    - Yleisin sairastumisikä on 65–70 vuotta
+    - Sairastuneista 2/3 on naisia
 - Nivelpsoriasis
+    - Nivelpsoriaasia sairastaa 0.16–0.25 %
 
 
 ## Mitkä ovat anamnestisesti tärkeät seikat vastaanottotilanteessa? Anamneesin merkitys?
@@ -75,10 +79,10 @@ Artroosi
 
 ## Perusterveydenhuollossa määritettävät laboratoriokokeet? Mitkä tutkimukset tehdään erikoissairaanhoidossa? RF, CCP-va, HLA-B27?
 HLA-B27 assosioituu vahvasti spondyloartropatioihin
-- Psoriasis
-- Ankylosoiva spondyliitti
-- Inflammatorinen suolistosairaus
-- Reaktiivinen artriitti
+- P = Psoriasis
+- A = Ankylosoiva spondyliitti
+- I = Inflammatorinen suolistosairaus
+- R = Reaktiivinen artriitti
 
 ## Röntgentutkimusten rooli? Otetaanko TK.ssa?
 - Natiivi käsistä ja jaloista voidaan ottaa TK:ssa (tärkeitä varsinkin 0-kuvina)
@@ -96,6 +100,7 @@ HLA-B27 assosioituu vahvasti spondyloartropatioihin
 - Väsymys
 - Yleinen sairaudentunne
 - Kuumeilu
+- Sukutausta
 
 ### Miten RA diagnoosi tehdään?
 Klassifikaatiokriteerit:
@@ -194,8 +199,6 @@ Jos vuoden oireeton:
 ### Lääkitys
 - Ensilinja NSAID (jopa 4x600 mg päivässä)
 - Kortisoni
-
-
 
 
 ## Niveltulehduksen tunnistaminen
@@ -385,7 +388,7 @@ Pseudokihdissä kalkkikristalleja
 ### SLE
 = LED
 - Aina kun epäilet ota virtsanäyte, koska tyypillisesti affisioi munuaisia
-    - Onko hematuriaa?
+    - Onko hematuriaa ja proteinuriaa?
 - Ota ANA eli tumavasta-aineet (95 % spesifinen)
     - ANA 5 % positiivisia populaatiossa
 
