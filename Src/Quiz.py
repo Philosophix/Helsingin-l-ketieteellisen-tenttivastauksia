@@ -103,7 +103,7 @@ class QuizItemDeck:
 
     @property
     def practiced_question_count(self):
-        return sum(q.correct_answer_count > 0 or q.wrong_answer_count > 0  for q in self.all_quiz_items)
+        return  len(self.all_quiz_items) - len(set(self.quiz_items))
 
 with open(md_filename) as f:
     txt_lines = f.readlines()
@@ -189,7 +189,7 @@ quiz_item = quiz_deck.next()
 
 while quiz_item is not None:
     clear_screen()
-    info_line = f'{quiz_deck.size + 1}/{quiz_deck.original_size}'
+    info_line = f'{quiz_deck.practiced_question_count} ({quiz_deck.size + 1}/{quiz_deck.original_size})'
     print_question(info_line, quiz_item.question)
     user_answer = input()
     if user_answer == 'q':

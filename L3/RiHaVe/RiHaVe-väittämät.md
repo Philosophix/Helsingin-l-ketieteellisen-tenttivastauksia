@@ -35,13 +35,13 @@ Oikein
 Oikein
 
 ## Akuutti eteisvärinä voidaan yrittää kääntää sinusrytmiin iv verapamiililla
-Väärin
+Väärin. Verapamiili on sydänselektiivinen kalsiumkanavan salpaaja. Sitä käytetään rasitusrintakivun hoitoon sekä supraventikulaarisen takykardian hoitoon ja eteisvärinä- ja eteislepatuspotilailla hidastamaan kammiovastetta. 
 
 ## Akuutti hengitystietulehdus on vasta-aihe elektiiviselle leikkaukselle
 Oikein
 
 ## Akuutti myokardiitti esiintyy tavallisimmin keski-ikäisillä naisilla.
-Väärin
+Väärin. Yleisin nuorilla miehillä.
 
 ## Alaseinäinfarktissa hitaat rytmihäiriöt ovat tavallisia
 Oikein
@@ -53,7 +53,7 @@ Oikein
 Oikein
 
 ## Allerginen alveoliitti on IgE-välitteinen keuhkokudoksen reaktio
-Väärin. "Useimmilla potilailla on allergeenispesifisiä IgG-luokan vasta-aineita, jotka osoittavat altistumisen. Keuhkokuvassa tai ohutleiketietokone-tomografiakuvissa todetaan muutoksia." -ttl.fi
+Väärin. "Useimmilla potilailla on allergeenispesifisiä IgG-luokan vasta-aineita, jotka osoittavat altistumisen. Keuhkokuvassa tai ohutleiketietokone-tomografiakuvissa todetaan muutoksia." -ttl.fi Huomioi kuitenkin, että allergia tarkoittaa vain IgE-välitteisiä, B-lymfosyyttien aktivaation seurauksena ilmeneviä reaktioita (tyypin I yliherkkyys). Allerginen alveoliitti on yliherkkyys.
 
 ## Allerginen alveoliitti on toiselta nimeltään homepölykeuhko.
 Oikein
@@ -80,18 +80,15 @@ Väärin
 Oikein
 
 ## Angiotensiini II -reseptorisalpaajien pahin haittavaikutus on yskä.
-Väärin
+Väärin. ATR-salpaajat sopivat potilaille, jotka saavat yskää ACE:n estäjistä.
 
 ## Annuloaorttinen ektasia on aina leikattava ja korjattava
-Oikein(?)
+Väärin(?) Annuloaorttinen ektasia on proksimaalisen laskevan aortan aneurysmaattinen dilaatio. Luulisi leikkaustarpeen riippuvan dilaation laajuudesta??
 
 ## Annuloaorttinen ektasia sijaitsee sinus Valsalvojen alueella.
 Oikein
 
 ## Anti FXa -pitoisuuden mittausta käytetään pienimolekulaarisen hepariinin vaikutuksen mittaamiseksi.
-Oikein
-
-## Antikoagulaatio voidaan kumota hätätapauksessa trombosyyttisiirrolla
 Oikein
 
 ## Antikoagulanttihoito on vasta-aiheinen potilaalla, jolla on maksakirroosi.
@@ -104,7 +101,7 @@ Oikein
 Oikein
 
 ## Aortan keinoläppäleikkauksen jälkeen INR tavoite varfariinihoidon aikana on 1.5-2.5
-Väärin
+Väärin. Piperin ym. aineistossa ilmaantui St. Jude -aorttatekoläppää käytettäessä vähiten komplikaatioita, kun INR-arvo oli alueella 2.2–3.5. Vastaavat arvot mitraaliproteesille olivat 2.4–3.6. Näin alue 2.5–3.5 on käytännössä mielekäs
 
 ## Aorttaläppästenoosin vaikeusaste on suorassa suhteessa sivuäänen voimakkuuteen
 Väärin
@@ -116,13 +113,13 @@ Oikein
 Oikein
 
 ## Aorttastenoosissa systolinen verenpaine on tyypillisimmillään korkea ja diastolinen matala
-Väärin
+Väärin. Kummatkin ovat korkeita.
 
 ## AP thorax-röntgen on tärkein yksittäinen screening-menetelmä pois suljettaessa thoraxin suurten suonien vammoja.
 Väärin
 
 ## ASAa käytetään sepelvaltimotaudissa estämään veren hyytymistekijöiden synteesiä
-Väärin
+Väärin. ASA toimii irreversiibelinä inhibiittorina syklo-oksigenaasille, joka ei ainoastaan vaikuta prostaglandiinien synteesiin, vaan myös veren hyytymiseen.
 
 ## ASA-yliherkkyys on esimerkki IgE välitteisestä allergiasta
 Väärin
@@ -155,7 +152,7 @@ Oikein
 Väärin
 
 ## AT1-estäjät ovat yleensä hyvin siedettyjä, mutta aiheuttavat varsin usein kuivaa yskää sivuvaikutuksenaan.
-Väärin
+Väärin. Yskä on ACE-estäjien tunnettu sivuvaikutus.
 
 ## Atyyppisten mykobakteerien ei ole kuvattu tarttuvan ihmisestä toiseen.
 Oikein
@@ -164,7 +161,7 @@ Oikein
 Väärin
 
 ## Avohoito-pneumonian ensisijainen hoito on fluorokinoloniryhmään kuuluva antibiootti.
-Väärin
+Väärin. Avohoidon ensisijainen mikrobilääke on Amoksisilliini joka on beetalaktaami.
 
 ## Bakteeripneumonia on astman vaikeutumisen tavallinen syy
 Väärin. "Astman pahenemisen tavallisin syy on virusinfektio ja niistä yleisin aiheuttaja on rinovirus." Käypähoito
@@ -197,7 +194,7 @@ Väärin
 Oikein
 
 ## CK-MB-massan huippupitoisuus veressä on 3 tuntia oireiden alusta.
-Väärin
+Väärin. CK-MBm -pitoisuuden nousu plasmassa on havaittavissa 3-8 tunnin kuluttua sepelvaltimotukoksen tapahtumisesta, huippu saavutetaan 20-24 tunnissa ja paluu normaaliksi 50-70 tunnissa.
 
 ## COPD potilaan spirometria voi olla normaali
 Väärin, spirometria diagnostinen COPDssä
@@ -218,10 +215,10 @@ Väärin
 Väärin
 
 ## Digoksiini soveltuu hyvin sinusrytmissä olevan potilaan diastolisen vajaatoiminnan hoitoon.
-Väärin(?)
+Väärin. Digoksiini on tarkoitettu kroonisen sydämen vajaatoiminnan hoitoon kun vallitsevana piirteenä on systolinen toimintahäiriö tai eteisvärinä.
 
 ## Digoksiini vähentää kuolleisuutta sydämen vajaatoiminnassa
-Väärin
+Väärin. Karoliinskan tutkimuksessa se lisäsi kuolleisuutta sydämen vajaatoiminnasta kärsivillä potilailla, joilla oli sinusrytmi tai ajoittaista eteisvärinää.
 
 ## Digoksiinia käytetään eteisvärinässä estämään liian nopeaa kammiovastetta.
 Oikein
@@ -230,10 +227,10 @@ Oikein
 Oikein
 
 ## Digoksiinin käyttöaiheita on diastolinen vajaatoiminta.
-Oikein(?)
+Väärin. Käytetään systolisessa vajaatoiminnassa vaikeasti oireilevilla potilailla (NYHA III–IV) kun kaikki muu tehokas lääkehoito on jo käytössä.
 
 ## Dihydropyridiiniryhmän kalsiumsalpaajia pitää välttää sydämen systolisen vajaatoiminnan hoidossa bradykardiariskin vuoksi.
-Väärin
+Väärin. Vältettäviä kalsiumsalpaajia ovat verapamiili ja diltiatseemi.
 
 ## Diureetin aiheuttama hypovolemia voi olla ortostaattisen hypotension syy vanhuksilla
 Oikein
