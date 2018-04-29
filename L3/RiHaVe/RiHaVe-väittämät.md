@@ -239,19 +239,19 @@ Oikein
 Oikein
 
 ## Elvytystilanteessa atropiini on sopiva lääke takyarytmioiden hoitoon.
-Väärin
+Väärin. Atropiinia käytetään päinvastoin bradykardian hoitoon.
 
 ## Emfyseeman yhteydessä diffuusiokapasitetti DLCO laskee.
 Oikein. "Laskee myös keuhkoparemkyymin fibroottisissa tai tulehduksellisissa sairauksissa pääosin alveolien ja kapillaarien vaurioitumisesta tai puuttumisesta johtuen tai kapillaarien verenkierron estymisen seurauksena (keuhkoembolia)." -Päivi Piirilä, Dos. Osastonlääköri, Meilahden sairaala
 
-## Empyema on harvinainen pneumonian komplikaatio
+## Empyeema on harvinainen pneumonian komplikaatio
 Oikein
 
 ## Endokardiitti voi saada alkunsa hoitamattomasta hampaistosta.
 Oikein
 
 ## Ensimmäisen asteen sydämen sivuääni on poikkeuksellisen voimakas ja kuuluu stetoskoopin koskettamatta ihoa.
-Väärin
+Väärin. Ensimmäinen aste on hiljaisin. Tässä olisi kyseessä voimakkain sivuääni, eli kuudes aste.
 
 ## Epästabiilissa angina pectoriksessa potilaan syketavoite on 60-70/min.
 Väärin
@@ -260,10 +260,10 @@ Väärin
 Väärin
 
 ## Eteislepatuksen sähköinen rytminsiirto aloitetaan 200 J:n teholla.
-Väärin
+Väärin. 50-100 J. 200 J käytetään eteisvärinässä.
 
 ## Eteislepatuksessa makrokiertoaktivaatio kiertää suurta ympyrää tavallisesti vasemmassa eteisessä (atrial flutter)
-Väärin
+Väärin---se kiertää oikeassa eteisessä.
 
 ## Eteissupistuksen puuttuminen pienentää sydämen minuuttitilavuutta 20-30%.
 Oikein
@@ -278,7 +278,7 @@ Oikein
 Väärin
 
 ## Eteisvärinän uusiutumisen estolääkityksenä käytetään yleisesti digoksiinia
-Väärin
+Väärin. Avoterveydenhuollossa eteisvärinän estohoitoon käytetään yleisimmin beetasalpaajia. Digoksiini ei estä eteisvärinän uusiutumista, vaan muuttaa eteisvärinän paremmin siedetyksi hidastamalla sykettä kohtauksen aikana.
 
 ## Eteisvärinän yhteydessä hidas säännöllinen kammiorytmi merkitsee eteis-kammiokatkosta.
 Oikein
@@ -290,34 +290,38 @@ Väärin
 Oikein
 
 ## Etsetimibi on selektiivinen HMG-CoA reduktaasin estäjä
-Väärin
+Väärin. HMG-CoA-reduktaasin estäjät eli statiinit, ovat kolesterolisynteesin estäjiä. Etsetimibi taas sitoutuu ohutsuolen kolesterolia kuljettaviin proteiineihin, jolloin erityisesti LDL-kolesterolin imeytyminen ohutsuolesta verenkiertoon estyy.
 
 ## Faktori V:n Leiden-mutaatio hidastaa veren hyytymistä.
-Väärin
+Väärin---se lisää veren hyytymistä. Mutaatio estää antikoagulanttisen molekyylin normaalin sitoutumisen Faktori V:hen, johtaen hyperkoagulobiliteettiin.
 
 ## Fallotin tetralogiaan kuuluvat eteisväliseinämän kookas aukko, ahtautunut aortta, vuotava keuhkovaltimoläppä ja oikean kammion laajeneminen.
-Väärin
+Väärin. Siihen kuuluvat:
+1. Keuhkovaltimon tyvi on ahdas.
+2. Kammioiden väliseinässä on aukko.
+3. Aortta sijaitsee keskimääräistä enemmän oikealla, osittain myös oikean kammion päällä = ”ratsastava aortta”.
+4. Oikea kammio on tavallista paksuseinäisempi.
 
 ## Familiaalinen hyperkolesterolemia voi aiheuttaa oireisen sepelvaltimotaudin jo lapsuusiällä.
 Oikein
 
 ## FEV% (FEV1/FVC) pienenee tai pysyy muuttumattomana keuhkoputkien obstruktion yhteydessä.
-Väärin
+Väärin. FEV1/FVC pienenee obstruktion yhteydessä koska FEV1 on silloin pienempi. Ventilaatiohäiriö tulkitaan obstruktiiviseksi, kun FEV1 /FVC(z) tai FEV1 /VC(z) on alle –1,65.
 
 ## FEV% (FEV1/FVC) tyypillisesti kohoaa restriktiivisen ventilaatiotoiminnan vajauksen yhteydessä.
-Väärin
+Väärin. FEV1/FVC -suhdetta käytetään obstruktiivisuuden arviointiin. Ventilaatiohäiriö tulkitaan restriktiiviseksi, jos sekä VC että FVC ovat viitealueen alapuolella (z-arvo alle –1,65). 
 
 ## FEV1 pienenee hengitysteiden obstruktiossa.
-Oikein
+Oikein. Potilaan nopea uloshengitys vaikeutuu eli FEV1 pienenee.
 
 ## Fibraatit alentavat kolesterolia vähintään yhtä tehokkaasti kuin statiinit.
-Väärin
+Väärin. Fibraatit vaikuttavat enemmän seerumin triglyseriditasoon (20–50 % pitoisuuden lasku) ja vähemmän kolesterolitasoon (LDL-kolesterolin lasku 5–20 %).
 
 ## Fibraatit laskevat seerumin triglypitoisuutta
 Oikein
 
 ## Flutikasoni on pitkävaikutteinen beeta-sympatomimeetti.
-Väärin
+Väärin. Flutikasoni on synteettinen glukokortikoidi.
 
 ## Frank-Starlingin lailla tarkoitetaan sydänlihaksen supistumisvoiman riippuvuutta sarkomeerin supistumista edeltävästä pituudesta.
 Oikein
@@ -326,7 +330,7 @@ Oikein
 Oikein. Potilaista joilla pitkittynyt yskä 10-20% syy on mahansisällön nousu ruokatorveen. -terve.fi
 
 ## Hamartoma on yksi keuhkosyövän tyyppi.
-Väärin
+Väärin. Hamartooma on oikealla paikallaan epätavallisen runsaina esiintyvistä soluista koostuva kasvaimen kaltainen muodostuma, joka saattaa esiintyä esimerkiksi keuhkoissa.
 
 ## Happihoito helpottaa usein hyperkapniaa.
 Väärin
@@ -344,7 +348,7 @@ Väärin
 Väärin
 
 ## Hengitettävillä kortisonivalmisteilla ei suurillakaan annoksilla ole systeemisiä sivuvaikutuksia
-Väärin
+Väärin. Koko elimistöön kohdistuvat haittavaikutukset ovat harvinaisia. Tavallisia paikallisia haittoja ovat äänen käheytyminen ja suun ja nielun hiivainfektiot. Niiden vähentämiseksi jokaisen lääkkeenottokerran jälkeen pitää huuhtoa suu ja nielu hyvin vedellä ja sylkeä huuhteluvesi pois, minkä lisäksi on hyödyllistä syödä jotakin tai ottaa ksylitolipurukumi.
 
 ## Hengityslihaksiston hapenkulutus on suurentunut keskivartalo obesiteetissa
 Oikein
@@ -371,7 +375,7 @@ Oikein
 Väärin
 
 ## Hypertrofinen kardiomyopatia on perinnöllinen sydänlihassairaus, joka edellyttää myös perheenjäsenten tutkimista
-Oikein
+Oikein. Hypertrofinen eli paksuntava kardiomyopatia on sydänlihassairaus, jolle on ominaista sydänlihaksen paksuuntuminen ilman selvää muuta kammiohypertrofiaa selittävää sairautta. Se on yleisin perinnöllinen sydänsairaus.
 
 ## Hypertrofinen kardiomyopatia on tavallinen nuorten ja urheilijoiden sydänperäisen äkkikuoleman aiheuttaja.
 Oikein
@@ -383,7 +387,7 @@ Oikein
 Oikein
 
 ## Hypokalsemia lyhentää QT-aikaa.
-Väärin
+Väärin. Hypokalsemia pidentää QT-aikaa ennen kaikkea pidentämällä ST-segmenttiä.
 
 ## Hypokalsemiaan liittyy QT-ajan pidentyminen.
 Oikein
@@ -391,7 +395,7 @@ Oikein
 ## Hyponatremian syyksi voi paljastua keuhkosyöpä
 Oikein. Jotkin syövät aiheuttavat hyponatremiaa...
 
-## Infarktipotilaan hypotensio ja tyhjät kaulalaskimot voi viitata oikean kammion infarktiin
+## Infarktipotilaan hypotensio ja tyhjät kaulalaskimot voivat viitata oikean kammion infarktiin
 Väärin
 
 ## Inhalaatiosteroideilla ei ole kuvattu olevan vakavia sivuvaikutuksia.
@@ -404,16 +408,16 @@ Väärin
 Väärin, inhaloitavat eivät läpäise veri-aivoestettä, joten ei keskushermostovaikutusta.
 
 ## Iäkkäällä verenpainetta ja keuhkoahtaumatautia sairastavalla miehellä todetaan pleuranestettä, joka on transsudaattia. Löydös sopii parhaiten sydämen vajaatoimintaan.
-Oikein
+Oikein. Transsudaattia syntyy kun paine kohoaa---eksudaattia syntyy tulehduksellisessa tilassa.
 
 ## Jopa 95% verenpainetaudista on primaarista, eli essentiaalista.
 Oikein
 
 ## Jos aortan aneurysman halkaisija on 60mm leikkaushoitoa ei vielä tarvita
-Väärin
+Väärin. Aortan aneurysma pyritään yleensä leikkaamaan, kun sen halkaisija on noin 50 mm.
 
 ## Jos avohoitopneumonian aiheuttajaksi epäillään pneumokokkia, antibioottihoito tulisi aloittaa penisilliinillä.
-Väärin
+Väärin. Avohoitokeuhkokuumeen ensisijainen mikrobilääke on amoksisilliini joka puree myös pneumokokkiin. Sairaalahoidossa ensisijainen lääke on kefuroksiimi iv. tai G-penisilliini iv.
 
 ## Jos EKG:ssä nähdään delta-aalto, se on viite sydämen eteis-kammio-oikoradasta.
 Oikein
@@ -431,7 +435,7 @@ Väärin
 Oikein
 
 ## Jos potilaalla todetaan PQ-aika 250ms ja LBBB, kyseessä on trifaskikulaarikatkos.
-Oikein
+Väärin. Trifaskikulaarikatkos =  pitkä PQ-aika + RBBB + LAHB/LPHB 
 
 ## Jos potilaan yskösten tuumorisolut ovat negatiivisia, tilanne käytännössä sulkee pois keuhkosyövän.
 Väärin
@@ -440,10 +444,10 @@ Väärin
 Oikein
 
 ## Jos potilas saa varfariinihoitoa, INR-tavoite on yleensä yli 4,0.
-Väärin
+Väärin. Tavallisesti verenohennuksen tavoitetaso on 2–3 INR-yksikköä.
 
 ## Jos rintakipuilevalla potilaalla on 3mm:n ST-nousut useassa rintakytkennässä yhdessä LBBB:n kanssa akuutti infarkti on käytännössä varma
-Väärin
+Väärin. STEMI diagnoosi on erittäin vaikeaa jos potilaalla on LBBB.
 
 ## Jos tahdistinpotilaalla on eteisvärinä, ei tarvita varfariinihoitoa.
 Väärin
@@ -460,8 +464,12 @@ Väärin. Vaikka suurin osa on ylipainoisia, voi uniapnean taustalla olla myös 
 ## Kaikki uniapneapotilaat ovat ylipainoisia.
 Väärin
 
-## Kallistuskokeen indikaationa on selvittää vasedepressiivisen oireyhtymän merkitys toistuvien tajunnanmenetysten aiheuttajana
-Oikein
+## Kallistuskokeen indikaationa on selvittää vasodepressiivisen oireyhtymän merkitys toistuvien tajunnanmenetysten aiheuttajana
+Oikein vaikka se on varsin epäspesifinen ja sen merkitys hoitoon melko vähäinen.
+
+- Vasodepressiivisessä oireyhtymässä pyörtyminen muistuttaa vasovagaalista pyörtymistä, mutta eroaa tästä siinä, että heijasteen käynnistävä ärsyke ei ole tiedossa. Se voi ilmaantua milloin ja missä vain
+- Mekanismina voi olla sykkeen lasku (kardioinhibitorinen muoto), verenpaineen lasku (vasodepressiivinen muoto) tai molemmat (sekamuoto)
+- Tunnettu esimerkki vasodepressiivisestä muodosta on pyörtyminen pitkään jatkuneen paikallaan seisomisen (esimerkiksi aamuhartaudessa) jälkeen.
 
 ## Kammiovasteen hidastaminen on tärkeää kroonisessa eteisvärinässä, koska liian nopea rytmi saattaa johtaa vajaatoimintaan.
 Oikein
@@ -484,7 +492,7 @@ Hengitysteiden infektioissa:
 Veriyskää, kuumeilua, hikoilua, laihtumista, keuhkokuvassa tubin kaltaisia onteloita tai pehmeämpiä tulehduksellisia muutoksia ylälohkoissa. Taudin eteneminen yleensä hitaampaa kuin tubissa, mutta hoitamattomana voi johtaa kuolemaan.
 
 ## Keuhkoembolia vaatii yleensä trombolyysihoidon
-Väärin
+Väärin. Liuotus- eli trombolyysihoito lisää eloonjäämisen todennäköisyyttä suhteessa lisääntyvään vuotoriskiin yksiselitteisesti vain suuren riskin keuhkoemboliassa.
 
 ## Keuhkoembolia voi aiheuttaa pleuranesteilyä.
 Oikein
@@ -493,13 +501,16 @@ Oikein
 Oikein. Harvinainen mutta mahdollinen.
 
 ## Keuhkoembolialle on tyypillistä hiilidioksidiretentio.
-Väärin
+Väärin. Potilas yleensä hyperventiloi jolloin veren hiilidioksidiosapaine laskee.
 
 ## Keuhkoembolialle tyypillisin EKG-muutos on LBBB
-Väärin
+Väärin. EKG-muutokset luonteeltaan dynaamisia.Tavallisimpia ovat:
+- Sinustakykardia
+- Rintakytkentöjen (V1–3) T-inversiot
+- Osittainen RBBB tai SIQIII
 
 ## Keuhkofibroosissa kuuluu auskultoiden tyypillisesti karkeita rahinoita.
-Väärin
+Väärin. Keuhkofibroosissa kuuluu sisäänhengityksessä yleensä hienojakoisia rahinoita
 
 ## Keuhkojen tuuletuksen (minuuttiventilaatio, VE) kasvua raskaassa rasituksessa (anaerobisen kynnyksen jälkeen) lisää epäsuorasti maitohapon vapautuminen verenkiertoon.
 Oikein
@@ -508,68 +519,80 @@ Oikein
 Oikein
 
 ## Keuhkosyöpä voidaan leikata 40-50%:lla potilaista
-Väärin. 0,75* 0,2. Piensolusyöpiä noin 20% joissa hoitona solunsalpaajahoito + mahdillisesti sädehoito. Ei-pienisoluisia 75% ensisijainen hoito on leikkaus, jos syöpä ei ole liiaksi levinnyt. Kuitenkin vain 20-25% mahdollista leikkauksen estävien sairauksien takia tai syövän levinneisyyden takia.
+Väärin. Oikea lukema on noin 15 %. Piensolusyöpien osuus on noin 20 %, joissa hoitona solunsalpaajahoito + mahdillisesti sädehoito. Ei-pienisoluisen (75 % keuhkosyövistä) ensisijainen hoito on leikkaus, jos syöpä ei ole liiaksi levinnyt. Näistä voidaan leikata kuitenkin vain 20-25 % leikkauksen estävien sairauksien tai syövän levinneisyyden takia.
 
 ## Keuhkosyöpä voidaan useimmiten hoitaa kirurgisesti.
-...
+Väärin koska vain noin 15 % voidaan leikata.
 
 ## Keuhkovaltimossa virtaa hapettunutta verta.
 Väärin
 
 ## Kiilapaine kuvastaa sydämen vasemman puolen täyttöpainetta
-Oikein
+Oikein. Kiilapaine on käytännössä sama kuin sydämen vasemman eteisen paine.
 
 ## Kiireellisyysjärjestys sepelvaltimoiden ohitusleikkaukseen määräytyy oireiden, rasituskokeen, varjoainekuvauksen ja sosiaalisten haittojen perusteella.
 Oikein
 
 ## Kirurgi voi korjata leikkaamalla potilaan sydämen eteisvärinän.
-Oikein
+Oikein. Eteisvärinän kirurginen ablaatiohoito.
 
 ## Kissa-allergisen astmapotilaan kannattaa hankkia kissa lemmikkieläimeksi, koska jatkuva altistuminen kissa-allergeenille vaikuttaa siedätyshoidon tavoin
 Väärin
 
 ## Kliininen rasituskoe voidaan tehdä potilaalle, jolla on epästabiili angina pectoris.
-Oikein(?)
+Oikein. Rasituskokeen ehdottomat kontraindikaatiot:
+- Äkillinen sepelvaltimokohtaus
+- Oireinen sydämen vajaatoiminta
+- Jos todetaan sydämen vajaatoiminnan merkit
+- Akuutti II–III asteen AV-katkos
+- Akuutti peri- tai myokardiitti
+- Akuutti infektiosairaus
+- Eteis- tai kammiotakykardia, nopea tuore eteisvärinä
+- Akuutti keuhkoembolia
+- Vaikea obstruktiivinen kardiomyopatia (HOCM)
+- Hoitamaton tai vaikea ventilaatiohäiriö (esim. astma, COPD)
+- Vaikea tai akuutti systeemisairaus (kuume, anemia, hypertyreoosi ym.)
 
 ## Klopidogreeli voidaan lopettaa koronaaristentatulta potilaalta kuukauden kuluttua toimenpiteestä.
-Väärin
+Väärin. Tavallisesti klopidogreelia annetaan ns. latausannoksena 300–600 mg, ja sen jälkeen päivittäin 1 tabletti eli 75 mg 3–12 kuukautta toimenpiteestä.
 
 ## Klopidogreelin ja ASA:n yhtäaikainen käyttö on vasta-aiheista vuotoriskin vuoksi.
-Väärin
+Väärin. Asetyylisalisyylihappo on välttämätön lääke kaikille sepelvaltimotautia sairastaville ja erityisesti suonitoimenpiteiden yhteydessä potilaalla tulee olla ASA käytössä.
 
 ## Klopidogreelin vaikutus perustuu verihiutaleiden ADP-välitteisen aktivaation estoon
-Oikein
+Oikein. Klopidogreelin metaboliitti sitoutuu trombosyyttien pinnan P2Y12-reseptoreihin. Nämä reseptorit sitoutuisivat normaalisti ADP-molekyyliin ja sitoutumista seuraa trombosyyttien aktivaatio ja hyytymän muodostuminen. Klopidogreelin sitoutuessa reseptoreihin ADP:n sijasta trombosyyttien aktivoituminen estyy ja hyytymää ei muodostu.
 
 ## Kolmas sydänääni ei liity iskeemiseen sydänsairauteen.
-Väärin
+Väärin. S3 liittyy yleensä sydämen vajaatointaan.
 
 ## Kolmas sydänääni on normaali löydös lapsuudesta 40. ikävuoteen asti.
 Oikein
 
 ## Kolmen alimman kylkiluun multippelit murtumat johtavat aina paradoksaaliseen hengitykseen.
-Väärin(?)
+Väärin koska se voi joskus tehdä niin---ei siis aina. Paradoksaalisessa hengityksessä pallea liikkuu sisäänhengityksessä ylöspäin eikä alaspäin niin kuin se normaalisti tekee.
 
 ## Kombinoitaessa diureetti ACE-estäjän kanssa voidaan ACE-estäjä aloittaa tavanomaisin ylläpitoannoksin
-Väärin
+Väärin. ACE-estäjä aloitetaan matalalla annoksella ja titrataan ylöspäin kunnes haluttu hoitotaso on saavutettu.
 
 ## Korkea CRP taso on merkittävin peruste ottaa pneumoniapotilas sairaalahoitoon
 Väärin. CRP tärkeä diaknostiikassa mutta ei välttämättä ole ehtinyt vielä nousta.
-Sairaalahoito harkitaan jos yksi tai useampi täyttyy
-Happisaturaatio alle 92
-CRP yli 100 mg/l
-Leukosyytit alle 3*10^9 /l tai yli 15*10^9 /l
-Syke yli 105
-Systolinen verenpaine alle 90
-Lämpö <36 tai >38,5 c
-Laaja keuhkomuutos röngtenissä
-Lääkitys suun kautta ei onnistu
-Vaikea perustauti
+Sairaalahoitoa harkitaan jos yksi tai useampi seuraavista täyttyy:
+- Happisaturaatio alle 92
+- CRP yli 100 mg/l
+- Leukosyytit alle 3*10^9 /l tai yli 15*10^9 /l
+- Syke yli 105
+- Systolinen verenpaine alle 90
+- Lämpö < 36 tai > 38,5 °C
+- Laaja keuhkomuutos röngtenissä
+- Lääkitys suun kautta ei onnistu
+- Vaikea perustauti
 
 ## Kotihappihoidon tarkoitus on helpottaa oireita tarvittaessa.
-Väärin
+Väärin. Pääosin happihoito aloitetaan yöllisenä ja yleensä edellytetään vähintään 16 tunnin käyttöä vuorokaudessa. Eli ei käytetä vain oireiden helpottamiseen tarvittaessa.
+
 
 ## Kroonisen sydämen vajaatoiminnan pahenemisvaiheen hoidossa furosemidi on ensisijaislääke
-Oikein
+Oikein. Nesteretention purkamiseen saatetaan tarvita aluksi suonensisäistä diureettiannostelua (i.v. furosemidi).
 
 ## Kroonisessa sydämen vajaatoiminnassa rasitushengenahdistuksen syynä on suureksi osaksi madaltunut aerobinenkynnys
 Oikein
@@ -578,7 +601,7 @@ Oikein
 Väärin. Magneetilla voidaan käynnistää erilaisia toimintoja tahdistimessa, jotka ovat laitekohtaisia. Tyypillisesti tahdistin palaa magneettiaktivaatiota edeltäviin asetuksiin.
 
 ## Kustannusten säästämiseksi BAL:n voi tilata ilman bronkoskopiaa
-Väärin
+Väärin. BAL eli bronkoalveolaarinen lavaationäyte otetaan bronkoskopian aikana.
 
 ## Kyfoskolioosi aiheuttaa obstruktiivisen ventilaatiofunktion aleneman.
 Väärin
@@ -590,7 +613,9 @@ Väärin
 Oikein
 
 ## Lakritsituotteiden aiheuttamalle hypertensiolle on tyypillistä suuri seerumin kaliumpitoisuus
-Väärin
+Väärin.
+- Lakritsivalmisteet sisältävät glykyrritsiinihappoa, joka on glykyrretiinihaposta ja glukuronihaposta koostuva glykosidi
+- Glykyrretiinihappo estää 11β-HSD2:n aktiivisuutta, ja siksi lakritsin runsas ja säännöllinen syönti johtaa muutamassa viikossa verenpaineen nousuun ja hypokalemiaan lisääntyneen kortisolivaikutuksen välityksellä.
 
 ## Laskevan aortan dissekaatio hoidetaan aina päivystysleikkauksella.
 Väärin
@@ -599,16 +624,16 @@ Väärin
 Väärin
 
 ## Leukotrieeniantagonisteilla on todettu olevan rasituksen sietoa lisäävä vaikutus.
-Oikein
+Oikein. Leukotrieenit ovat elimistössä syntyviä aineita, jotka supistavat keuhkoputkia ja lisäävät limakalvojen tulehdusoireita. Leukotrieenin salpaajat (montelukasti, tsafirlukasti) hillitsevät tulehdusta ja laajentavat hieman keuhkoputkia, mutta niiden astmatulehdusta vähentävä vaikutus on vähäisempi kuin kortisonilla.
 
 ## Levosimendaani on vasta-aiheinen sydämen vajaatoiminnassa.
-Väärin
+Väärin. Levosimendaani jaksoittain käytettynä saattaa vähentää sydämen vajaatoiminnan pahenemisvaiheita ja kuolleisuutta pitkälle edenneessä sydämen vajaatoiminnassa (näytönaste B).
 
 ## Levosimendaani on vasta-aiheinen vaikeassa sydämen vajaatoiminnassa
 Väärin
 
 ## Lidokaiini-infuusio tulee aloittaa jos infarktipotilaalla on runsaasti kammiolisälyöntejä
-Väärin
+Väärin. Lidokaiinia käytetään kammiotakykardian ja kammiovärinän hoidossa.
 
 ## Lievän keuhkoahtaumataudin ensisijainen hoito on inhaloitava kortikosteroidi.
 Väärin
@@ -620,7 +645,7 @@ Oikein
 Oikein
 
 ## LMWH ei saa käyttää raskauden aikana
-Väärin
+Väärin. Pienmolekyylinen hepariini on "drug of choice" sekä tukoksen estoon että sen hoitoon, sillä se ei läpäise istukkaa. Sen sijaan uudet oraaliset antikoagulantit (suora trombiinin estäjä ja hyytymistekijä Xa -estäjät) eivät sovellu raskauden aikaiseen eivätkä sen jälkeiseen (imetysaika) käyttöön mahdollisen teratogeenisyyden ja sikiövaikutusten vuoksi. 
 
 ## Luutuberkuloosi on hyvin tarttuva.
 Väärin
@@ -638,7 +663,7 @@ Väärin
 Oikein
 
 ## Merkittävälle aorttaläpän vuodolle on tyypillistä suuri pulssipaine
-Oikein
+Oikein. Kohtalaisessa ja vaikeassa kroonisessa aorttavuodossa diastolinen verenpaine laskee ja pulssipaine kasvaa. Kuitenkin pulssipaineen kasvu on mahdollinen jo lievässäkin vuodossa, mikäli aortta ja suuret valtimot ovat jo iän myötä jäykistyneet.
 
 ## Mikäli statiinia käyttävällä potilaalla esiintyy lihaskipuja voi tämä aiheutua statiinin lihasvaikutuksesta ja potilaalta tulee määrittää kreatiinikinaasin aktiviteetti
 Väärin
