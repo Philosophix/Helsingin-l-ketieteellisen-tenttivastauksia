@@ -666,7 +666,7 @@ Oikein
 Oikein. Kohtalaisessa ja vaikeassa kroonisessa aorttavuodossa diastolinen verenpaine laskee ja pulssipaine kasvaa. Kuitenkin pulssipaineen kasvu on mahdollinen jo lievässäkin vuodossa, mikäli aortta ja suuret valtimot ovat jo iän myötä jäykistyneet.
 
 ## Mikäli statiinia käyttävällä potilaalla esiintyy lihaskipuja voi tämä aiheutua statiinin lihasvaikutuksesta ja potilaalta tulee määrittää kreatiinikinaasin aktiviteetti
-Väärin
+Väärin. Lihaksiin kohdistuvat vakavat statiinin haittavaikutukset ovat harvinaisia, eikä plasman kreatiinikinaasin (CK) rutiininomaisia määrityksiä tarvita. 
 
 ## Mitraalistenoosi on yleinen läppävika suomalaisilla vanhuksilla.
 Väärin
@@ -702,16 +702,16 @@ Oikein
 Väärin
 
 ## Nitraatit parantavat ennustetta infarktin sairastaneella potilaalla
-Väärin
+Väärin. Nitraatit ovat oireita lievittävää hoitoa.
 
-## Noin 50% sydämen vajaatoiminnasta on idiopaattista.
-Väärin
+## Noin 50 % sydämen vajaatoiminnasta on idiopaattista.
+Väärin. Sydämen vajaatoiminnan yleisimmä syyt ovat sepelvaltimotauti, verenpainetauti ja läppäviat yksin tai eri yhdistelminä (80–90 %).
 
 ## Normaalirakenteisella aikuisella sydämen tavanomainen iskutilavuus on n. 1l/min/m2
-Väärin
+Väärin. Sydämen yhdellä supistuksella eli systolessa pumppaamaa verimäärää kutsutaan iskutilavuudeksi (stroke volume, SV). Aikuisen ihmisen vasemman ja oikean kammion iskutilavuus on levossa keskimäärin 70 millilitraa.
 
 ## Normaalissa sydämessä vasemman kammion seinämän jännitys on kääntäen suhteessa kammion halkaisijaan (Laplacen laki).
-Väärin
+Väärin. Tilavuuskuormitus lisää diastolista seinämäjännitystä, joka johtaa sarkomeerien replikaatioon pituussuunnassa, myosyyttien pitenemiseen ja kammion laajenemiseen. Laplacen yhtälön mukaisesti tästä on seurauksena myös systolisen seinämäjännityksen lisääntyminen.
 
 ## Normaalissa sydämessä veenapaluu oikealle puolelle vähenee sisäänhengityksen aikana.
 Väärin
@@ -720,13 +720,16 @@ Väärin
 Oikein
 
 ## Nuoren "perusterveen" pneumoniapotilaan hengitysfrekvenssi on 30, voit kotiuttaa hänet aloitettuasi tehokkaan antibiootin.
-Väärin
+Väärin. 50-vuotiailla ja nuoremmilla hengitysfrekvenssi ≥ 20/min ja happikyllästeisyys ≤ 92 % viittaavat vaikeaan taudinkuvaan.
 
 ## NYHA III-IV vajaatoimintapotilaista 30-50% kuolee yhden vuoden kuluessa.
-Oikein
+Oikein. Tosin erään PubMed-lähteen (https://www.ncbi.nlm.nih.gov/pubmed/12445535) mukaan yhden vuoden mortaliteetit olivat:
+- NYHA I: 7 %
+- NYHA II: 15 %
+- NYHA III: 28 %
 
 ## Nykyisin käytössä olevat rytmihäiriölääkkeet ovat melko tehottomia eteisvärinän estohoidossa.
-Oikein
+Oikein. Parhaassa tapauksessa rytmihäiriölääkitys estää eteisvärinäkohtaukset kokonaan, mutta käytännössä realistinen tavoite on kohtausten harventuminen ja oireiden lievittyminen.
 
 ## Obeesilla henkilöllä (BMI>30) merkittävä rasitushengenahdistusta aiheuttava tekijä on hengitystyön kasvu.
 Oikein
@@ -738,13 +741,13 @@ Väärin. Yleisintä 40-65 vuotiailla
 Väärin
 
 ## Oikean eteisen kuormituksessa EKG:ssä tyypillisin löydös on V1-kytkennän P-terminal force (PTF)
-Väärin
+Väärin. P terminal force = PV1 negatiivisen osan pituus x amplitudi. Jos PTF > 0.04 mms viittaa se vasemmanpuoleisten läppien vikaan tai vasemman eteisen hypertrofiaan.
 
 ## Oikean kammion infarkti johtaa tyypillisesti äkilliseen keuhkopöhöön.
 Väärin
 
 ## Oikean kammion infarktissa on syytä aloittaa nitraatti-infuusio välittömästi.
-Väärin
+Väärin! Se on kontraindikaatio nitraatti-infuusiolle.
 
 ## Oikean sepelvaltimon äkillinen tukkeutuminen aiheuttaa Q-aaltojen muodostumisen kytkennöissä V4-V6
 Väärin
@@ -753,7 +756,7 @@ Väärin
 Oikein
 
 ## Oksimetriseurannalla voidaan arvioida hyperkapnian vaikeusastetta.
-Väärin
+Väärin. Oksimetrilla mitataan happisaturaatiota.
 
 ## Ortostaattisessa kokeessa (7-8 min) voidaan saada selville sympaattisen hermoston ylitoiminta.
 Väärin
@@ -780,7 +783,7 @@ Oikein
 Väärin
 
 ## Pleuraalinen hankausääni viittaa runsaaseen pleuranestekertymään
-Väärin
+Väärin. Hankausääni syntyy kun viseraali- ja parietaalipleura hankaavat toisiaan vasten pleuranesteen puutteen vuoksi.
 
 ## Pleuradreeniä asennettaessa tulee aina varmistua pleuratilan kiinnikkeettömyydestä.
 Oikein
@@ -792,13 +795,13 @@ Väärin
 Oikein
 
 ## Pneumoniapotilaan keuhkokuva korjaantuu keskimäärin 2 viikon aikana.
-Väärin
+Väärin. Siihen menee yleensä noin 6 viikkoa.
 
 ## Posttraumaattinen aneurysma aortassa sijaitsee useimmiten laskevassa torakaaliaortassa.
 Oikein
 
 ## Potilaalla on laaja-alainen perfuusiodefekti keuhkokartassa sopien isoon keuhkoemboliaan. Tätä tukee myös verinäytteestä mitattu alentunut D-dimeeri, joka johtuu lisääntyneestä fibriinin pilkkoutumisesta
-Väärin
+Väärin. D-dimeeri yleensä nousee keuhkoemboliassa. Normaali D-dimeeri tekee keuhkoembolian epätodennäköiseksi.
 
 ## Potilaan yskösnäytteen tuberkuloosivärjäys on negatiivinen, mutta viljely positiivinen, joudut eristämään hänet ainakin kahdeksi viikoksi.
 Väärin
@@ -807,7 +810,7 @@ Väärin
 Oikein
 
 ## Primaarisessa hyperaldosteronismissa plasman reniinipitoisuus on hyvin matala
-Oikein
+Oikein. Hyperaldosteronismi nostaa verenpainetta, jolloin reniiniä erittyy vähemmän.
 
 ## Pulmonaalihypertensiossa nähdään thorax-kuvassa supistuneet keuhkovaltimoiden päähaarat.
 Väärin
