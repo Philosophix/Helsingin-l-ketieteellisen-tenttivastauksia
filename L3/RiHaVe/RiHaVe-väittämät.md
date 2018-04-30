@@ -825,34 +825,34 @@ Väärin
 Oikein
 
 ## R on T -ilmiö altistaa eteisvärinälle.
-Väärin
+Väärin. Perinteisesti on ajateltu että R-on-T -ilmiö altistaa kammio takyarytmioille.
 
 ## Rasituksen aikana systolinen verenpaine pysyttelee enintään +20mmHg lepotason yläpuolella.
-Väärin
+Väärin. Systolinen verenpaine kasvaa tyypillisesti 50-70 mmHg (noin 40 % lähtötasosta) rasituksen aikana lähtötasoon nähden (Laukkanen ja Kurl 2011). Diastolinen verenpaine ei juuri muutu dynaamisen rasituksen aikana vasodilataation ja perifeerisen verenkierron vastuksen pienenemisen vuoksi (Le ym. 2008, Laukkanen ja Kurl 2011).
 
 ## Rasitus-EKG:n suoritusindikaatioita ovat mm. työkyvyn arviointi sydäninfarktin sairastaneella.
 Oikein
 
 ## Restriktio tarkoittaa keuhkojen tilavuuden alenemista
-Oikein
+Oikein. Restriktiivinen keuhkosairaus rajoittaa keuhkojen laajenemista sisäänhengityksessä, jolloin siis tilavuus pienenee.
 
 ## Restriktiossa FEV1 voi olla normaali tai pienentynyt viitearvoon nähden samassa suhteessa kuin keuhkojen tilavuus.
 Oikein
 
 ## Rintakipuisella potilaalla on matala PaO2 ja matala PaCO2. Ensisijainen työdiagnoosisi on sydäninfarkti.
-Väärin
+Väärin. Oireet sopivat keuhkoemboliaan, jossa hyperventilaatio pienentää hiilidioksidiosapainetta.
 
 ## Runsasta kammiolisälyöntisyyttä voidaan hoitaa turvallisesti beetasalpaajilla.
-Oikein
+Oikein. Terveen sydämen harvakseltaan esiintyviä kammiolisälyöntejä ei tarvitse hoitaa. Jos oireet ovat haittaavia, voidaan harkita lääkehoitoa. Pieni beetasalpaaja-annos on ensisijainen ja turvallisin hoito.
 
 ## Rytmihäiriölääkkeet ovat turvallisia sydämen vajaatoiminnasta kärsivillä potilailla.
-Väärin
+Väärin. Esimerkiksi Dronedaroni sopii erityisen hyvin sepelvaltimotautiin liittyvän eteisvärinän estohoitoon, mutta se on vasta-aiheinen vaikeassa sydämen vajaatoiminnassa.
 
 ## Sairas sinus oireyhtymässä VVIR-tahdistustapa on suositeltavin koska tahdistin nostaa rasitustilanteessa sydämen sykettä
-Väärin
+Väärin. SSS:ssä paras tahdistustapa on AAIR (PubMed). Kammiotahdistuksen (VVIR) tärkein aihe on hidas eteisvärinä. SSS:ssa VVIR lisää eteisvärinän, sydämen vajaatoiminnan, tromboembolian ja kuoleman riskiä.
 
 ## Salmeterolin vaikutusaika on 12 tuntia.
-Oikein
+Oikein. Salmeteroli on beeta-2-agonisti, jota käytetään astman ja muiden keuhkosairauksien hoitoon.
 
 ## Sarkoidoosi on lievä tauti, eikä koskaan johda pysyvän ventilaatiovajauksen kehittymiseen.
 Väärin
@@ -861,13 +861,21 @@ Väärin
 Väärin. Granunumalomatoottinen tulehdus mutta ei nekroosia. Kaseaationekroosi (reikäjuusto) viittaa tubiin.
 
 ## Saturaatio 92 tarkoittaa, että potilas hapettuu tyydyttävän hyvin.
-Oikein(?)
+Oikein(?) Normaali saturaatio on 96-99 % ja sen pitää olla yli 94 %. Happisaturaation väheneminen alle 90 %:n (= siirtyminen oksihemoglobiinin dissosiaatiokäyrän jyrkästi laskevalle osalle) on viite merkityksellisestä happiosapaineen laskusta.
 
 ## Seerumin HDL-kolesterolipitoisuuden nousu pienentää sydäntapahtumien riskiä.
 Oikein
 
 ## Sentraalisessa apneassa hengitysliikkeet eivät jatku
-Oikein. Aivot eivät pysty lähettämään keholle sisäänhengitykseen kehottavia singnaaleja. 10 + sekunnin tauko. Sentraaliseen uniapneaan altistaa: sydämen vajaatoiminta, aivoinfarkti, aivokasvain, aivojen virusinfektio, krooninen hengityselinsairaus, neurologinen sairaus. Alle 20% apneatapauksista on sentraalisia.
+Oikein. Aivot eivät pysty lähettämään keholle sisäänhengitykseen kehottavia singnaaleja. Yli 10 sekunnin tauko hengityksessä. Alle 20% apneatapauksista on sentraalisia.
+Sentraaliseen uniapneaan altistaa:
+- sydämen vajaatoiminta
+- aivoinfarkti
+- aivokasvain
+- aivojen virusinfektio
+- krooninen hengityselinsairaus
+- neurologinen sairaus
+
 
 ## Sepelvaltimoahtauman pallolaajennuksen jälkeen sama, laajennettu kohta voi ahtautua uudelleen (restenoosi) muutamassa kuukaudessa.
 Oikein
@@ -879,7 +887,7 @@ Väärin
 Oikein
 
 ## Sepelvaltimotaudin sekundaaripreventiossa LDL-kolesterolin ei tule laskea alle 3,0 mmol/l.
-Väärin
+Väärin. Hyvin suuren riskin henkilöillä (jo todettu valtimosairaus kuten esim. sepelvaltimotauti, diabetekseen liittyviä lisäsairauksia tai riskilaskurissa riski yli 15 %) pahan LDL-kolesterolin tavoite on alle 1,8 mmol/l. Tällöin tarvitaan aina lääkehoitoa. Jos tavoite saavutetaan, osa valtimomuutoksista voi muuttua normaalimpaan suuntaan.
 
 ## Sepelvaltimotauti on naisilla harvinainen.
 Väärin
@@ -888,7 +896,7 @@ Väärin
 Oikein
 
 ## Sinus valsalvassa kiertää laskimoverta
-Väärin
+Väärin. Sinus valsalvat sijaitsevat aorttaläpän purjeissa (aortan seinämän onkalot), eli laskimoveren kiertäminen siellä on melkoisen epätodennäköistä!
 
 ## Sinustakykardia > 100/min on tavallinen löydös keuhkoemboliapotilaalla.
 Oikein
@@ -900,7 +908,7 @@ Oikein
 Väärin
 
 ## S-Krea yli 200 umol on kontraindikaatio furosemidin käytölle.
-Väärin
+Väärin. Tutkimusten mukaan munuaisten vajaatoiminta ei ole kontraindikaatio furosemidin käytölle (PubMed).
 
 ## Sotaloli on beetasalpaaja joka pidentää QT-aikaa
 Oikein
