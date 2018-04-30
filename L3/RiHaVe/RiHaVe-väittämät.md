@@ -944,7 +944,7 @@ Oikein
 Väärin
 
 ## Supraventrikulaarisen takykardian yhteydessä tavattava kammiovaste 200 viittaa ylimääräisen eteis-kammiojohtoradan olemassaoloon.
-Väärin
+Väärin. 
 
 ## Suurentunut plasman D-dimeeripitoisuus on spesifi löydös keuhkoemboliassa tai syvässä laskimotrombissa.
 Väärin. Suurenee myös monissa muissa tilanteissa. (PP)
