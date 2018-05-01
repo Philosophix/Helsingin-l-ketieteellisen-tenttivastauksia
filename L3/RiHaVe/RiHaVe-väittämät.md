@@ -959,7 +959,7 @@ Väärin.
 Väärin. Suurenee myös monissa muissa tilanteissa. Sen sijaan normaali D-dimeeripitoisuus sulkee pois keuhkoembolian.
 
 ## SVT käynnistyy tavallisimmin eteis- tai kammiolisälyönnistä
-Väärin (Tämä on oikein "Eteis- tai kammiolisälyönnit ovat tavallisimpia SVT:n laukaisijoita ("trigger")." (PP))
+Väärin (Tämä on oikein "Eteis- tai kammiolisälyönnit ovat tavallisimpia SVT:n laukaisijoita ("trigger")." 
 Usually initiated by a premature supraventricular beat (atrial or junctional) (The Only Book...)
 
 ## Sydämen eteisvärinärytmi voidaan poistaa kirurgisesti
@@ -972,7 +972,7 @@ Oikein
 Oikein
 
 ## Sydämen oikean ja vasemman kammion paineissa ei terveellä ihmisellä ole eroa.
-Väärin. LOL (PP)
+Väärin. LOL 
 
 ## Sydämen oikean kammion läpimitta on terveillä ihmisillä pienempi kuin vasemman kammion läpimitta
 Oikein
@@ -981,10 +981,10 @@ Oikein
 Väärin. 
 
 ## Sydämen systolisen vajaatoiminnan hoidossa spironolaktoni ei vaikuta vajaatoimintapotilaiden ennusteeseen.
-Väärin. Vaikuttaa. (PP)
+Väärin. Spironolaktoni parantaa sydäninsuffienssin ennustetta myös munuaisten vajaatoiminnan yhteydessä, eikä glomerulussuodoksen heikkeneminen edelleen kolmanneksella vähennä lääkkeen hyötyä (Duodecim)
 
 ## Sydämen talliumrasitustutkimuksella kuvannetaan sepelvaltimot radioisotoopin avulla.
-Väärin. Tällä kuvannetaan sydänlihaksen perfuusiota, ei suoraan sepelvaltimoita. (PP)
+Väärin. Tällä kuvannetaan sydänlihaksen perfuusiota, ei suoraan sepelvaltimoita. 
 
 ## Sydämen ultraäänitutkimuksessa voidaan arvioida sydämen kammioiden kokoa.
 Oikein
@@ -999,25 +999,29 @@ Oikein
 Väärin.
 
 ## Sydäninfarktipotilaalle, jota on resuskitoitu, ei voida antaa trombolyysiä suuren vuotoriskin vuoksi.
-Väärin, tietyin edellytyksin: Yli 10 minuutin / voimakas PPE on suhteellinen kontraindikaatio trombolyysille. (PP)
+Väärin, tietyin edellytyksin: Yli 10 minuutin / voimakas PPE on suhteellinen kontraindikaatio trombolyysille. 
 
 ## Sydänlihaksen hapenkulutusta kuvastaa parhaiten syketiheyden ja iskutilavuuden tulo.
 Oikein
 
 ## Sydänlihaksen hapentarve määräytyy pääosin sykkeen ja verenpaineen perusteella.
-Väärin. Pääasiassa (80%) hapentarve määräytyy vasemman kammion systolisen seinämäkuormituksen (P * (R / (2h)), missä P = kammiopaine, R = kammio-ontelon säde ja h = seinämäpaksuus), syketaajuuden ja supistumisvireyden perusteella. Toissijaiset vaikuttavat tekijät ovat iskutilavuus, perusaineenvaihdunta ja ionien aktiivinen kuljetus. (PP)
+Väärin. Sydänlihaksen hapentarpeen määrää ensisijaisesti kolme tekijää:
+1. Vasemman kammion seinämäjännitys
+2. Sydämen syketaajuus
+3. Supistusvireys
+Pääasiassa (80%) hapentarve määräytyy vasemman kammion systolisen seinämäkuormituksen (P * (R / (2h)), missä P = kammiopaine, R = kammio-ontelon säde ja h = seinämäpaksuus), syketaajuuden ja supistumisvireyden perusteella. Toissijaiset vaikuttavat tekijät ovat iskutilavuus, perusaineenvaihdunta ja ionien aktiivinen kuljetus.
 
 ## Sydänlihaksen perfuusiotutkimuksilla voidaan osoittaa ainoastaan, onko sydänlihaksessa arpialueita.
-Väärin. Perfuusiotutkimuksessa nähdään myös iskeemiset / infarktoituneet alueet. (PP)
+Väärin. Perfuusiotutkimuksessa nähdään myös iskeemiset / infarktoituneet alueet. 
 
 ## Sydänlihaksen relaksaatio on passiivinen tapahtuma eikä vaadi lisäenergiaa.
-Väärin. Relaksaatio vaatii Ca-ionien irtoamisen troponiini C:stä sekä Ca-ionien pumppaamisen takaisin varastotiehyisiin, joka vaatii ATP:tä. (PP)
+Väärin. Relaksaatio vaatii Ca-ionien irtoamisen troponiini C:stä sekä Ca-ionien pumppaamisen takaisin varastotiehyisiin, joka vaatii ATP:tä. 
 
 ## Sydänsarkoidoosi voi ilmentyä kliinisesti kammioarytmioina
-Oikein
+Oikein. Sydänsarkoidoosi on useimmiten septumissa missä se herkästi vaikuttaa johtoratoihin.
 
 ## Syklosporiini ei ole enää tärkein hylkimistä estävä lääke elinsiirtopotilailla.
-???
+Väärin
 
 ## Sähköinen rytminsiirto ei vaadi anestesiaa.
 Väärin
@@ -1029,7 +1033,7 @@ Oikein
 Oikein
 
 ## Tasainen nitraattipitoisuus veressä estää nitraattitoleranssin synnyn
-Väärin. Nitraattitoleranssin synnyn estämiseksi tulee lääkkeet ottaa s.e. vuorokaudessa on 10 - 12 tunnin jakso, jolloin verenkierrossa on vain vähän tai ei lainkaan nitraattia. (PP)
+Väärin. Paras tapa välttää nitraattitoleranssin kehittyminen on järjestää potilaan vuorokausirytmiin "nitraatiton" jakso esimerkiksi yöajaksi eksentrisellä annostelulla: lääkettä ei anneta säännöllisin välein, vaan esimerkiksi yöksi jätetään pidempi, jopa 16 tunnin "puhdistumisjakso". Monilla potilailla rintakiputaipumusta ei ole yölevon aikana. (EBM Guidelines)
 
 ## Tavallisimpien suomalaistyyppisen familiaalisen hyperkolesterolemian geenivirheiden toteamiseksi on käytettävissä DNA-testi.
 Oikein
@@ -1038,10 +1042,10 @@ Oikein
 Oikein
 
 ## Tavanomainen nesterajoitus sydämen vajaatoimintapotilaille on 1000-1500ml/vrk.
-Väärin. 
+Väärin. Nesterajoitus (1.5–2 l) vaikeassa vajaatoiminnassa (NYHA III–IV -oireet).
 
 ## Tavanomainen paineluelvytys ei ole liuotushoidon vasta-aihe uhkaavassa ST-nousuinfarktissa.
-Väärin. Yli 10 minuutin PPE on kontraindikaatio STEMI:n fibrinolyyttisessä hoidossa. (PP)
+Väärin. Yli 10 minuutin PPE on kontraindikaatio STEMI:n fibrinolyyttisessä hoidossa.
 
 ## Tekoläpän tromboosi on hengenvaarallinen tila.
 Oikein
@@ -1050,10 +1054,10 @@ Oikein
 Oikein
 
 ## Terveen normaalipainoisen henkilön hengästyminen raskaassa fyysisessä rasituksessa johtuu keuhkojen tuuletuskapasiteetin ylärajan saavuttamisesta.
-Väärin. Normaalihenkilöllä hapen kuljetusta rajaa sydämen kyky kuljetuttaa verta kudoksiin sekä kudosten kyky käyttää hyväkseen veressä olevaa happea. VAIN äärimmäisen kovilla kestävyysurheilijoilla voi keuhkojen tuuletuskapasiteetin riittämättömyys muodostua pullonkaulaksi (terveistä yksilöistä, siis) (PP).
+Väärin. Normaalihenkilöllä hapen kuljetusta rajaa sydämen kyky kuljetuttaa verta kudoksiin sekä kudosten kyky käyttää hyväkseen veressä olevaa happea. VAIN äärimmäisen kovilla kestävyysurheilijoilla voi keuhkojen tuuletuskapasiteetin riittämättömyys muodostua pullonkaulaksi (terveistä yksilöistä, siis)
 
 ## Tiatsididiureetit soveltuvat iäkkäiden naisten hypertension hoitoon.
-Väärin. (Kirjan mielestä oikein "Tiatsididiureetit soveltuvat erityisesti iäkkäiden naisten hypertension hoitoon." (PP))
+Oikein. Tiatsididiureetit soveltuvat erityisesti iäkkäiden naisten hypertension hoitoon. Tiatsididiureetit vähentävät kalsiumin erittymistä, millä on osteoporoosilta suojaavaa vaikutusta.
 
 ## Trakeobronkiaalivammasta herää epäily, jos potilaalla on atelektaasia, pneumomediastinum tai subkutaaniemfyseema.
 Oikein
@@ -1062,7 +1066,7 @@ Oikein
 Oikein
 
 ## Trombolyysihoitoa ei tule antaa potilaalle, jolla on 3mm:n ST-segmentin nousut kytkennöissä II, III ja avF, mutta 3mm:n ST-segmentin laskut kytkennöissä V1-V4.
-Väärin. Inferoposteriorinen ST-nousuinfarkti ei ole kontraindikaatio trombolyysillä, normaalit toimintatavat ST-nousuinfarktiin liittyen. (PP)
+Väärin. Inferoposteriorinen ST-nousuinfarkti ei ole kontraindikaatio trombolyysille. Normaalit toimintatavat ST-nousuinfarktiin liittyen.
 
 ## Trombolyysiin voi liittyä rytmihäiriöitä.
 Oikein
@@ -1077,25 +1081,25 @@ Väärin.
 Väärin. Lienee itsestäänselvyys.
 
 ## Uniapneatautiin liittyvä päiväväsymys on lievää eikä johda koskaan työkyvyttömyyteen.
-Väärin. Uniapneaan liittyvä päiväväsymys voi olla todella voimakasta, johtaen helposti työkyvyttömyyteen esimerkiksi ammattiautoilijoilla. (PP)
+Väärin. Uniapneaan liittyvä päiväväsymys voi olla todella voimakasta, johtaen helposti työkyvyttömyyteen esimerkiksi ammattiautoilijoilla.
 
 ## Vaikeaa aorttaläppästenoosia sairastavan potilaan, jonka verenpaine on 95/60, rintakipua tulee ehkäistä nitraateilla.
-Väärin. Pahentaa hypotensiota, heikentää tilannetta. (PP)
+Väärin. Pahentaa hypotensiota, heikentää tilannetta.
 
 ## Valsalvan menetelmällä aiheutetaan vagusstimulaatio
 Oikein.
 
 ## Valtimoverinäytteen PaO2 7,4 kPa tarkoittaa lievää hypoksemiaa.
-Väärin. Lievä 8-11, keskivaikea 6-7.999..., vaikea < 6 (PP)
+Väärin. Lievä 8-11, keskivaikea 6-7.999..., vaikea < 6 
 
 ## Valtimoverinäytteestä todettu respiratorinen alkaloosi on merkki siitä, että astmakohtaus on välittömästi henkeä uhkaava
-Väärin. Eräs välittömästi hengenvaaralliseen kohtaukseen liittyvä merkki on alentunut pH, tai aB-pO2 alle 8 kPa huolimatta lisähapen hengittämisestä, aB-pCO2 yli 6 kPa. (PP)
+Väärin. Eräs välittömästi hengenvaaralliseen kohtaukseen liittyvä merkki on alentunut pH, tai aB-pO2 alle 8 kPa huolimatta lisähapen hengittämisestä, aB-pCO2 yli 6 kPa. 
 
 ## Vanhusten ST-nousuinfarktin hoidossa streptokinaasin käyttö aiheuttaa vähemmän aivoverenvuotoja kuin plasminogeenin kudosaktivaattorit.
 Väärin.
 
 ## Varfariini (Marevan) ei vaikuta hyytymistekijöiden proteiinisynteesiin
-Väärin. Estää K-vitamiinista riippuvien hyytymistekijöiden synteesiä (II, VII, IX, X). Tämän lisäksi heikentää Proteiinien S ja C aktiivisuutta. (PP)
+Väärin. Estää K-vitamiinista riippuvien hyytymistekijöiden synteesiä (II, VII, IX, X). Tämän lisäksi heikentää Proteiinien S ja C aktiivisuutta. 
 
 ## Varfariinia käyttävän potilaan siirtyminen kasvisdieetille voi suurentaa varfariinin annostarvetta
 Oikein.
@@ -1110,25 +1114,33 @@ Oikein.
 Oikein.
 
 ## Vasen haarakatkos estää kaikissa tapauksissa infarktin havaitsemisen EKG:n perusteella.
-Väärin. On vaikeaa, mutta ei mahdotonta, kts. https://lifeinthefastlane.com/ecg-library/basics/sgarbossa/ (PP)
+Väärin. On vaikeaa, mutta ei mahdotonta, kts. https://lifeinthefastlane.com/ecg-library/basics/sgarbossa/ 
 
 ## VDD-tahdistin huomioi potilaan mahdollisen sinussolmukkeen toiminnan.
 Oikein.
 
 ## VDD-tahdistin voi tahdistaa eteistä tai kammiota.
-Väärin. Ensimmäinen kirjain = mitä lokeroa tahdistetaan, toinen kirjain = mitä lokeroa havaitaan, kolmas kirjain = inhiboiva, aktivoima vai molemmat. Tässä siis tahdistetaan kammiota (V). (PP)
+Väärin. Ensimmäinen kirjain = mitä lokeroa tahdistetaan, toinen kirjain = mitä lokeroa havaitaan, kolmas kirjain = inhiboiva, aktivoima vai molemmat. Tässä siis tahdistetaan kammiota (V). 
 
 ## Verapamiili laskee digoksiinipitoisuutta veressä.
-Väärin. Verapamiili nostaa digoksiinin biologista hyötyosuutta jopa 70%. (PP)
+Väärin. Verapamiili nostaa digoksiinin biologista hyötyosuutta jopa 70%. 
 
 ## Verapamiilin ehdottomia vasta-aiheita ovat nopea flimmeri.
-Väärin. Vasta-aiheita: Kompensoimaton sydämen vajaatoiminta (vähentää sydämen supistumistehoa entisestään), vaikea vasemman kammion vajaatoiminta (supistuvuuden heikkeneminen), vaikea hypotensio tai kardiogeeninen sokki (vaikeutuu entisestään), II-III asteen AV-blokki tai sick sinus -syndrooma (hidastaa AV-johtumista, pahentaa tilannetta), merkittävä bradykardia (kts edellä), eteislepatus tai -värinä + WPW tai LGL (AV-johtumisen hidastaminen voi aiheuttaa sen, että oikorata pääsee johtamaan nopeammin => altistaa kammiovärinälle), digitalisintoksikaatio (kts yllä) (PP)
+Väärin. Verapamiili on sydänselektiivinen kalsiumkanavan salpaaja. Sitä käytetään rasitusrintakivun hoitoon sekä supraventikulaarisen takykardian hoitoon ja eteisvärinä- ja eteislepatuspotilailla hidastamaan kammiovastetta.
+Vasta-aiheita:
+- Kompensoimaton sydämen vajaatoiminta (vähentää sydämen supistumistehoa entisestään)
+- Vaikea vasemman kammion vajaatoiminta (supistuvuuden heikkeneminen)
+- Vaikea hypotensio tai kardiogeeninen sokki (vaikeutuu entisestään)
+- II-III asteen AV-blokki tai sick sinus -syndrooma (hidastaa AV-johtumista, pahentaa tilannetta)
+- Merkittävä bradykardia (kts edellä)
+- Eteislepatus tai -värinä + WPW tai LGL (AV-johtumisen hidastaminen voi aiheuttaa sen, että oikorata pääsee johtamaan nopeammin => altistaa kammiovärinälle)
+- Digitalisintoksikaatio (kts yllä) 
 
 ## Veren virtaus koronaarisuonten kautta vasempaan kammioon tapahtuu pääasiallisesti systolen aikana
 Väärin. 
 
 ## Verenpainetauti liittyen feokromosytoomaan tulee hoitaa leikkaukseen saakka alfa-beetasalpaajilla (esim. labetaloli).
-Väärin. Käytetään alfasalpaajia (esim fenoksibentsamiini), joilla hillitään katekoliamiinien vaikutusta. Takykardiaan voidaan tarvittaessa käyttää propranololia. (PP)
+Väärin. Käytetään alfasalpaajia (esim fenoksibentsamiini), joilla hillitään katekoliamiinien vaikutusta. Takykardiaan voidaan tarvittaessa käyttää propranololia. 
 
 ## WPW oireyhtymässä eteisvärinä voi johtaa kammiovärinään
 Oikein
