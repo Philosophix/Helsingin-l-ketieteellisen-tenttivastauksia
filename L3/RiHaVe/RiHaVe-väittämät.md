@@ -917,7 +917,7 @@ Oikein
 Oikein
 
 ## Spiroergometriatutkimuksessa loppu- uloshengityksen hiilidioksitason (FetCO2) mittaamisen avulla saadaan tietoa mahdollisesta hypoventiloinnista.
-Oikein(?)
+Oikein. Spiroergometrian yhteydessä voidaan mitata myös keuhkotuuletuksen tarkoituksenmukaisuutta rasituksen aikana. Hyperventilaatiossa hengitysekvivalentit (VE/VCO2 ja VE/VO2) suurenevat ja uloshengitysilman hiilidioksidipitoisuus loppu-uloshengityksessä (FetCO2) pienenee. Hypoventilaatiossa käy päinvastoin.
 
 ## Spiroergometriatutkimuksessa voidaan saada selville fyysisen suorituskyvyn patologinen rajoittuminen sydämen pumppufunktion alenemisen johdosta
 Oikein
