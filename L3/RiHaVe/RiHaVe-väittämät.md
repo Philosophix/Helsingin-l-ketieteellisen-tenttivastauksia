@@ -924,6 +924,11 @@ Oikein
 
 ## Spironolaktonia käytetään hyperaldosteronin aiheuttaman verenpaineen nousun hoidossa
 Oikein
+- Spironolaktoni (aldosteronin vastavaikuttaja) on ensisijainen lääkehoidossa.
+- Haittavaikutukset ovat yleisiä ja annosriippuvaisia (miehillä gynekomastia, naisilla kuukautishäiriöt).
+- Aloitusannos 12.5–25 mg/vrk yhtenä annoksena
+- Munuaisten vajaatoiminnassa käytettävä erityisen varovasti
+- Annosta nostetaan vasteen (verenpaine, P-K, haittavaikutukset) ja siedon mukaan 100 mg:aan/vrk asti.
 
 ## Spironolaktonin sivuvaikutuksiin kuuluu gynekomastia
 Oikein
@@ -932,13 +937,17 @@ Oikein
 Väärin
 
 ## Stentti eli verkkoputki estää käytännössä kokonaan laajennetun sepelvaltimoalueen uudelleen ahtautumisen
-Väärin
+Väärin. Alle 5 %:lle potilaista toimenpide joudutaan uusimaan stentin uudelleen ahtautumisen vuoksi. Näissä tapauksissa suoni laajennetaan uudelleen. Tarvittaessa voidaan tehdä myös ohitusleikkaus, jos uusi pallolaajennus ei ole mahdollinen. Suonen uudelleen ahtautumista voidaan vähentää käyttämällä lääkeaineella päällystettyjä stenttejä tai käsittelemällä suonta lääkeainetta vapauttavalla pallolla.
 
 ## ST-nousut yhdessä resiprokaalisten ST-laskujen kanssa viittaavat perikardiittiin
 Väärin
 
 ## Streptokinaasin annon jälkeen seuraa usein hypotonia.
-Oikein
+Oikein. Streptokinaasi on trombolyytti, jonka sivuvaikutuksiin kuuluu:
+- Pahoinvointi
+- Verenvuoto
+- Hypotonia
+- Allergiset reaktiot
 
 ## Suonenveto (säären ja jalkaterän lihaskouristus) on pitkävaikutteisten beetasympatomimeettien tavallinen sivuvaikutus.
 Väärin
@@ -947,10 +956,11 @@ Väärin
 Väärin. 
 
 ## Suurentunut plasman D-dimeeripitoisuus on spesifi löydös keuhkoemboliassa tai syvässä laskimotrombissa.
-Väärin. Suurenee myös monissa muissa tilanteissa. (PP)
+Väärin. Suurenee myös monissa muissa tilanteissa. Sen sijaan normaali D-dimeeripitoisuus sulkee pois keuhkoembolian.
 
 ## SVT käynnistyy tavallisimmin eteis- tai kammiolisälyönnistä
 Väärin (Tämä on oikein "Eteis- tai kammiolisälyönnit ovat tavallisimpia SVT:n laukaisijoita ("trigger")." (PP))
+Usually initiated by a premature supraventricular beat (atrial or junctional) (The Only Book...)
 
 ## Sydämen eteisvärinärytmi voidaan poistaa kirurgisesti
 Oikein
