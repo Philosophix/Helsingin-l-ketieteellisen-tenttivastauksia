@@ -17,7 +17,7 @@ Oikein
 Väärin
 
 ## ACE-estäjät ovat turvallisia raskaana olevien naisten verenpaineen hoidossa.
-Väärin
+Väärin. Voivat aiheuttaa munuaisvaurioita sikiölle.
 
 ## Adenosiini estää kammiolisälyöntien syntymistä
 Väärin
@@ -74,7 +74,7 @@ Väärin. "Jos potilas kertoo, että hänen astmaoireensa helpottavat vapaapäiv
 Väärin. Jos CPAP-hoito tomii niin voi jatkaa.
 
 ## Amoksisilliini on hyvä vaihtoehto klamydiapneumonian hoidossa.
-Väärin
+Väärin. Hoidetaan joko atritromysiinillä (makrolidi) tai doksisykliinillä
 
 ## Anemia voi laukaista sydämen vajaatoiminnan.
 Oikein
@@ -83,7 +83,7 @@ Oikein
 Väärin. ATR-salpaajat sopivat potilaille, jotka saavat yskää ACE:n estäjistä.
 
 ## Annuloaorttinen ektasia on aina leikattava ja korjattava
-Väärin(?) Annuloaorttinen ektasia on proksimaalisen laskevan aortan aneurysmaattinen dilaatio. Luulisi leikkaustarpeen riippuvan dilaation laajuudesta??
+Väärin(?) Annuloaorttinen ektasia on proksimaalisen nousevan aortan aneurysmaattinen dilaatio. Luulisi leikkaustarpeen riippuvan dilaation laajuudesta??
 
 ## Annuloaorttinen ektasia sijaitsee sinus Valsalvojen alueella.
 Oikein
@@ -116,7 +116,7 @@ Oikein
 Väärin. Kummatkin ovat korkeita.
 
 ## AP thorax-röntgen on tärkein yksittäinen screening-menetelmä pois suljettaessa thoraxin suurten suonien vammoja.
-Väärin
+Väärin. CT on tärkein (AP = anteroposteriorinen -> röntgensäteiden suunta kuvatessa)
 
 ## ASAa käytetään sepelvaltimotaudissa estämään veren hyytymistekijöiden synteesiä
 Väärin. ASA toimii irreversiibelinä inhibiittorina syklo-oksigenaasille, joka ei ainoastaan vaikuta prostaglandiinien synteesiin, vaan myös veren hyytymiseen.
@@ -134,7 +134,7 @@ Oikein
 Väärin
 
 ## Astmakohtauksessa oleva potilas on kuljetettava makuuasennossa.
-Väärin
+Väärin. Vaikeassa astmakohtauksessa potilas kuljetetaan istuallaan.
 
 ## Astmakohtauksessa valtimoverinäytteessä todettu hiilidioksidiosapaineen nousu ja pH:n lasku merkitsevät tilanteen huononemista.
 Oikein
@@ -158,10 +158,14 @@ Väärin. Yskä on ACE-estäjien tunnettu sivuvaikutus.
 Oikein
 
 ## Austin-Flint sivuääni johtuu merkittävästä hiippaläppävuodosta
-Väärin
+Väärin. Liitetty aorttavuotoon.
 
 ## Avohoito-pneumonian ensisijainen hoito on fluorokinoloniryhmään kuuluva antibiootti.
 Väärin. Avohoidon ensisijainen mikrobilääke on Amoksisilliini joka on beetalaktaami.
+Fluorokinoloneja:
+- Moksifloksasiini
+- Levofloksasiini
+- Siprofloksasiini
 
 ## Bakteeripneumonia on astman vaikeutumisen tavallinen syy
 Väärin. "Astman pahenemisen tavallisin syy on virusinfektio ja niistä yleisin aiheuttaja on rinovirus." Käypähoito
@@ -180,6 +184,12 @@ Väärin
 
 ## Beetasalpaajien käyttöä tulee aina välttää sydämen vajaatoimintaa sairastavilla
 Väärin
+Hoito (ABS)
+- ACE-estäjä (ramipriili)
+- Beetasalpaaja (bisoprololi)
+- Statiini (atorvastatiini)
+- Diureetti jos nesteretentiota (furosemidi)
+- Jos eteisvärinä ja korkea syke lääkityksestä huolimatta, lisätään digoksiini
 
 ## Bioläpän etuja on mm se että potilasta ei tarvitse antikoaguloida kuin muutaman kuukauden ajan ja näin se sopii erityisesti korkean vuotoriskin potilaille
 Oikein
@@ -191,7 +201,7 @@ Oikein
 Väärin
 
 ## Ca-estäjät laskevat tehokkaasti systolista verenpainetta
-Oikein
+Oikein. Näitä ovat mm. amlodipiini ja verapamiili
 
 ## CK-MB-massan huippupitoisuus veressä on 3 tuntia oireiden alusta.
 Väärin. CK-MBm -pitoisuuden nousu plasmassa on havaittavissa 3-8 tunnin kuluttua sepelvaltimotukoksen tapahtumisesta, huippu saavutetaan 20-24 tunnissa ja paluu normaaliksi 50-70 tunnissa.
@@ -297,10 +307,10 @@ Väärin---se lisää veren hyytymistä. Mutaatio estää antikoagulanttisen mol
 
 ## Fallotin tetralogiaan kuuluvat eteisväliseinämän kookas aukko, ahtautunut aortta, vuotava keuhkovaltimoläppä ja oikean kammion laajeneminen.
 Väärin. Siihen kuuluvat:
-1. Keuhkovaltimon tyvi on ahdas.
-2. Kammioiden väliseinässä on aukko.
+1. Keuhkovaltimon tyvi on ahdas = pulmonaalistenoosi
+2. Kammioiden väliseinässä on aukko = VSD
 3. Aortta sijaitsee keskimääräistä enemmän oikealla, osittain myös oikean kammion päällä = ”ratsastava aortta”.
-4. Oikea kammio on tavallista paksuseinäisempi.
+4. Oikea kammio on tavallista paksuseinäisempi = RVH
 
 ## Familiaalinen hyperkolesterolemia voi aiheuttaa oireisen sepelvaltimotaudin jo lapsuusiällä.
 Oikein
@@ -366,7 +376,7 @@ Väärin
 Väärin
 
 ## Hydroklooritiatsidin annosta ei yleensä kannata nostaa yli 50 mg:n sydämen vajaatoimintapotilaalla
-Oikein
+Oikein. Hydroklooritiatsidi on mieto diureetti, jota käytetään etenkin kohonneeen verenpaineen ja turvotusten hoitoon.
 
 ## Hyperinflaatio ja emfyseema näyttävät samalta thoraxkuvassa
 Oikein
@@ -417,22 +427,22 @@ Oikein
 Väärin. Aortan aneurysma pyritään yleensä leikkaamaan, kun sen halkaisija on noin 50 mm.
 
 ## Jos avohoitopneumonian aiheuttajaksi epäillään pneumokokkia, antibioottihoito tulisi aloittaa penisilliinillä.
-Väärin. Avohoitokeuhkokuumeen ensisijainen mikrobilääke on amoksisilliini joka puree myös pneumokokkiin. Sairaalahoidossa ensisijainen lääke on kefuroksiimi iv. tai G-penisilliini iv.
+Oikein. Avohoitokeuhkokuumeen ensisijainen mikrobilääke on amoksisilliini joka puree myös pneumokokkiin. Sairaalahoidossa ensisijainen lääke on kefuroksiimi iv. tai G-penisilliini iv.
 
 ## Jos EKG:ssä nähdään delta-aalto, se on viite sydämen eteis-kammio-oikoradasta.
 Oikein
 
 ## Jos infarktipotilaan verenpaine ja yleistila romahtavat 2.-5. vuorokautena kipujen alusta, kyseessä voi olla infarktin rakennekomplikaatio.
-Oikein
+Oikein. Kuten nystylihaksen- tai kammioväliseinän repeämä
 
 ## Jos muuten terveellä potilaalla on pneumonia lingulassa, on epätodennäköistä, että hän on syanoottinen.
 Oikein
 
 ## Jos potilaalla on levossa rintakipua, voidaan sanoa, että hänellä on epästabiili angina pectoris.
-Väärin
+Väärin. Lienee olemassa muitakin syitä...
 
 ## Jos potilaalla on rytmihäiriötahdistin hän ei saa toimia raskaan ajoneuvon ammattikuljettajana
-Oikein
+Oikein. Rytmihäiriötahdistin (implantable cardioverter defibrillator, ICD, ks. 5) asennetaan vain, jos vakavien kammioperäisten rytmihäiriöiden uusiutumisriski on suuri. Asennus merkitsee ammatinvaihdosta ammattiautoilijalle. 
 
 ## Jos potilaalla todetaan PQ-aika 250ms ja LBBB, kyseessä on trifaskikulaarikatkos.
 Väärin. Trifaskikulaarikatkos =  pitkä PQ-aika + RBBB + LAHB/LPHB 
@@ -441,7 +451,10 @@ Väärin. Trifaskikulaarikatkos =  pitkä PQ-aika + RBBB + LAHB/LPHB
 Väärin
 
 ## Jos potilas saa natriumnitroprussidia i.v., on syytä seurata veren tiosyanaattipitoisuutta.
-Oikein
+Oikein. Natriumnitroprussidia käytetään i.v. hypertensiivisessä kriisissä.
+- Pitempiaikaisessa käytössä saattaa tulla tiosyanaattimyrkytys koska munuaiset poistavat sitä hitaasti verestä
+- Laajentaa ensisijassa valtimoita
+- Natriumnitroprussidin käyttö saattaa aiheuttaa syanidimyrkytyksen
 
 ## Jos potilas saa varfariinihoitoa, INR-tavoite on yleensä yli 4,0.
 Väärin. Tavallisesti verenohennuksen tavoitetaso on 2–3 INR-yksikköä.
@@ -462,7 +475,7 @@ Väärin
 Väärin. Vaikka suurin osa on ylipainoisia, voi uniapnean taustalla olla myös rakenteellisia poikkeavuuksia
 
 ## Kaikki uniapneapotilaat ovat ylipainoisia.
-Väärin
+Väärin, mutta varsinkin ylipainoisilla uniapneapotilailla on syytä pitää myös mielessä hypoventilaatio-mahdollisuus, jolloin esiintyy hiilidioksidiretentiota (pCO2 > 6 kPa)
 
 ## Kallistuskokeen indikaationa on selvittää vasodepressiivisen oireyhtymän merkitys toistuvien tajunnanmenetysten aiheuttajana
 Oikein vaikka se on varsin epäspesifinen ja sen merkitys hoitoon melko vähäinen.
@@ -519,7 +532,7 @@ Oikein
 Oikein
 
 ## Keuhkosyöpä voidaan leikata 40-50%:lla potilaista
-Väärin. Oikea lukema on noin 15 %. Piensolusyöpien osuus on noin 20 %, joissa hoitona solunsalpaajahoito + mahdillisesti sädehoito. Ei-pienisoluisen (75 % keuhkosyövistä) ensisijainen hoito on leikkaus, jos syöpä ei ole liiaksi levinnyt. Näistä voidaan leikata kuitenkin vain 20-25 % leikkauksen estävien sairauksien tai syövän levinneisyyden takia.
+Väärin. Oikea lukema on noin 15 %. Piensolusyöpien osuus on noin 20 %, joissa hoitona solunsalpaajahoito + mahdollisesti sädehoito. Ei-pienisoluisen (75 % keuhkosyövistä) ensisijainen hoito on leikkaus, jos syöpä ei ole liiaksi levinnyt. Näistä voidaan leikata kuitenkin vain 20-25 % leikkauksen estävien sairauksien tai syövän levinneisyyden takia.
 
 ## Keuhkosyöpä voidaan useimmiten hoitaa kirurgisesti.
 Väärin koska vain noin 15 % voidaan leikata.
@@ -560,10 +573,15 @@ Väärin. Tavallisesti klopidogreelia annetaan ns. latausannoksena 300–600 mg,
 Väärin. Asetyylisalisyylihappo on välttämätön lääke kaikille sepelvaltimotautia sairastaville ja erityisesti suonitoimenpiteiden yhteydessä potilaalla tulee olla ASA käytössä.
 
 ## Klopidogreelin vaikutus perustuu verihiutaleiden ADP-välitteisen aktivaation estoon
-Oikein. Klopidogreelin metaboliitti sitoutuu trombosyyttien pinnan P2Y12-reseptoreihin. Nämä reseptorit sitoutuisivat normaalisti ADP-molekyyliin ja sitoutumista seuraa trombosyyttien aktivaatio ja hyytymän muodostuminen. Klopidogreelin sitoutuessa reseptoreihin ADP:n sijasta trombosyyttien aktivoituminen estyy ja hyytymää ei muodostu.
+Oikein. Klopidogreelin metaboliitti sitoutuu trombosyyttien pinnan P2Y12-reseptoreihin, joihin normaalisti sitoutuu ADP-molekyyli. ADP-molekyylin sitoutumisesta seuraa trombosyyttien aktivaatio ja hyytymän muodostuminen. Klopidogreelin sitoutuessa reseptoreihin ADP:n sijasta trombosyyttien aktivoituminen estyy ja hyytymää ei muodostu.
 
 ## Kolmas sydänääni ei liity iskeemiseen sydänsairauteen.
-Väärin. S3 liittyy yleensä sydämen vajaatointaan.
+Väärin.
+- S3 (lub-dub-ta) eli Kentucky, liittyy yleensä sydämen vajaatoimintaan
+- S4 (ta-lub-dub) eli Tennessee liittyy pettävään tai hypertrofiseen vasempaan kammioon kuten:
+    - Systeemisessä hypertensiossa
+    - Aorttastenoosissa 
+    - Hypertrofisessa kardiomyopatiassa.
 
 ## Kolmas sydänääni on normaali löydös lapsuudesta 40. ikävuoteen asti.
 Oikein
@@ -579,7 +597,7 @@ Väärin. CRP tärkeä diaknostiikassa mutta ei välttämättä ole ehtinyt viel
 Sairaalahoitoa harkitaan jos yksi tai useampi seuraavista täyttyy:
 - Happisaturaatio alle 92
 - CRP yli 100 mg/l
-- Leukosyytit alle 3*10^9 /l tai yli 15*10^9 /l
+- Leukopenia tai leukosytoosi (leukosyytit alle 3*10^9 /l tai yli 15*10^9 /l)
 - Syke yli 105
 - Systolinen verenpaine alle 90
 - Lämpö < 36 tai > 38,5 °C
@@ -705,7 +723,7 @@ Väärin
 Väärin. Nitraatit ovat oireita lievittävää hoitoa.
 
 ## Noin 50 % sydämen vajaatoiminnasta on idiopaattista.
-Väärin. Sydämen vajaatoiminnan yleisimmä syyt ovat sepelvaltimotauti, verenpainetauti ja läppäviat yksin tai eri yhdistelminä (80–90 %).
+Väärin. Sydämen vajaatoiminnan yleisimmät syyt ovat sepelvaltimotauti, verenpainetauti ja läppäviat yksin tai eri yhdistelminä (80–90 %).
 
 ## Normaalirakenteisella aikuisella sydämen tavanomainen iskutilavuus on n. 1l/min/m2
 Väärin. Sydämen yhdellä supistuksella eli systolessa pumppaamaa verimäärää kutsutaan iskutilavuudeksi (stroke volume, SV). Aikuisen ihmisen vasemman ja oikean kammion iskutilavuus on levossa keskimäärin 70 millilitraa.
@@ -724,9 +742,9 @@ Väärin. 50-vuotiailla ja nuoremmilla hengitysfrekvenssi ≥ 20/min ja happikyl
 
 ## NYHA III-IV vajaatoimintapotilaista 30-50% kuolee yhden vuoden kuluessa.
 Oikein. Tosin erään PubMed-lähteen (https://www.ncbi.nlm.nih.gov/pubmed/12445535) mukaan yhden vuoden mortaliteetit olivat:
-- NYHA I: 7 %
-- NYHA II: 15 %
-- NYHA III: 28 %
+- NYHA II:   7 %
+- NYHA III: 15 %
+- NYHA IV:  28 %
 
 ## Nykyisin käytössä olevat rytmihäiriölääkkeet ovat melko tehottomia eteisvärinän estohoidossa.
 Oikein. Parhaassa tapauksessa rytmihäiriölääkitys estää eteisvärinäkohtaukset kokonaan, mutta käytännössä realistinen tavoite on kohtausten harventuminen ja oireiden lievittyminen.
@@ -959,8 +977,7 @@ Väärin.
 Väärin. Suurenee myös monissa muissa tilanteissa. Sen sijaan normaali D-dimeeripitoisuus sulkee pois keuhkoembolian.
 
 ## SVT käynnistyy tavallisimmin eteis- tai kammiolisälyönnistä
-Väärin (Tämä on oikein "Eteis- tai kammiolisälyönnit ovat tavallisimpia SVT:n laukaisijoita ("trigger")." 
-Usually initiated by a premature supraventricular beat (atrial or junctional) (The Only Book...)
+Oikein. Eteis- tai kammiolisälyönnit ovat tavallisimpia SVT:n laukaisijoita kardiologian kirjan mukaan.
 
 ## Sydämen eteisvärinärytmi voidaan poistaa kirurgisesti
 Oikein
@@ -1028,6 +1045,27 @@ Väärin
 
 ## Sähköisen rytminsiirron sijaan voidaan käyttää flekainidia rytminsiirrossa
 Oikein
+Rytminsiirtolääkkeet:
+- Flekainidi ja propafenoni
+    - Lääkkeelliseen rytminsiirtoon yleisimmin käyttävä lääke on nykyään I C -ryhmän rytmihäiriölääke, flekainidi tai propafenoni
+    - Ne sopivat hyvin itsenäisen eteisvärinän rytminsiirtoon, mutta niitä ei saa käyttää taulukossa 1 mainituissa tapauksissa.
+- Vernakalantti
+    - Vernakalantin vaikutus kohdistuu pääasiassa eteisten sähköiseen toimintaan
+    - Proarytmian (ks. 4) vaara on pieni ja lääkettä voidaan käyttää myös lievissä sydänsairauksissa
+    - Sitä ei voi käyttää vaikeassa sydämen vajaatoiminnassa eikä aorttaläpän ahtaumassa.
+- Amiodaroni ja ibutilidi
+    - Amiodaronin teho akuutin eteisvärinän rytminsiirrossa vaihtelee
+    - Sen vaikutus on hitaampi kuin muiden eteisvärinän rytminsiirtoon käytettävien lääkkeiden
+    - Ibutilidin etuna on nopea vaikutus ja hyvä teho eteislepatukseen
+    - Kääntyvien kärkien kammiotakykardian (ks. 5) vaaran takia sen käyttö on kuitenkin syytä rajata rytmihäiriöihin perehtyneen erikoislääkärin vastuulle.
+- Beetasalpaajat
+    - Beetasalpaajien tehosta akuutin eteisvärinän rytminsiirrossa ei ole näyttöä
+    - Ne helpottavat oireita hidastamalla sykettä ja ilmeisesti myös vähentävät varsinaisten rytmihäiriölääkkeiden aiheuttamia haittoja (proarytmia)
+    - Tämän vuoksi niiden käyttö ennen varsinaisen rytmihäiriölääkkeen antamista on suositeltavaa
+- Muut lääkkeet
+    - Kalsiuminestäjien ja digoksiinin tehosta akuutin eteisvärinän rytminsiirrossa ei ole näyttöä, mutta ne helpottavat oireita hidastamalla sykettä
+    - Aiemmin eteisvärinän rytminsiirtoon yleisesti käytetyt nopeavaikutteiset kinidiinitabletit on poistettu markkinoilta haittavaikutusten takia
+
 
 ## Säännöllinen alkoholinkäyttö iltaisin pahentaa uniapneaa.
 Oikein
@@ -1054,7 +1092,7 @@ Oikein
 Oikein
 
 ## Terveen normaalipainoisen henkilön hengästyminen raskaassa fyysisessä rasituksessa johtuu keuhkojen tuuletuskapasiteetin ylärajan saavuttamisesta.
-Väärin. Normaalihenkilöllä hapen kuljetusta rajaa sydämen kyky kuljetuttaa verta kudoksiin sekä kudosten kyky käyttää hyväkseen veressä olevaa happea. VAIN äärimmäisen kovilla kestävyysurheilijoilla voi keuhkojen tuuletuskapasiteetin riittämättömyys muodostua pullonkaulaksi (terveistä yksilöistä, siis)
+Väärin. Normaalihenkilöllä hapen kuljetusta rajaa sydämen kyky kuljetuttaa verta kudoksiin sekä kudosten kyky käyttää hyväkseen veressä olevaa happea. Vain äärimmäisen kovilla kestävyysurheilijoilla voi keuhkojen tuuletuskapasiteetin riittämättömyys muodostua pullonkaulaksi, kun kyse on terveistä ihmisistä.
 
 ## Tiatsididiureetit soveltuvat iäkkäiden naisten hypertension hoitoon.
 Oikein. Tiatsididiureetit soveltuvat erityisesti iäkkäiden naisten hypertension hoitoon. Tiatsididiureetit vähentävät kalsiumin erittymistä, millä on osteoporoosilta suojaavaa vaikutusta.
@@ -1164,4 +1202,13 @@ Väärin
 Väärin. Ylipaino lisää riskiä sairastua astmaan, joten eiköhän se vaikuta myös sen tasapainoon (altistaa uniapnealle jne)
 
 ## Äänen käheytyminen on tavallinen inhalaatiosteroidien haittavaikutus.
+Oikein
+
+## Hinkuyskä hoidetaan aina antibioottikuurilla
+Väärin koska se todetaan yleensä niin myöhään, että ab-hoito ei ole enää ajankohtainen.
+
+## Leukotrieenisalpaajia käytetään COPD:n hoidossa
+Väärin
+
+## Atyyppinen mykobakteeri voi aiheuttaa ysköksen tuberkuloosivärjäyksen positiivisuuden
 Oikein
