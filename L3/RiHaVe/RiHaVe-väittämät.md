@@ -149,7 +149,7 @@ Oikein
 Oikein
 
 ## Astmapotilaat voivat käyttää beetasalpaaja-silmätippoja ilman vaaraa.
-Väärin
+Väärin. Silmätippoina annettu beetasalpaaja (timololi) voi aiheuttaa astmakohtauksen tai heikentää astmalääkityksen tehoa
 
 ## AT1-estäjät ovat yleensä hyvin siedettyjä, mutta aiheuttavat varsin usein kuivaa yskää sivuvaikutuksenaan.
 Väärin. Yskä on ACE-estäjien tunnettu sivuvaikutus.
@@ -786,7 +786,7 @@ Väärin
 Väärin
 
 ## Pienimolekulaarisen hepariinin daltepariinin (Fragmin) hoidon vaikutuksia seurataan veren APTT-arvojen avulla.
-Väärin
+Väärin. APTT on jatkuvan fraktioimattoman hepariini-infuusion ensisijainen mittari, jolloin hoitotavoite on APTT-arvon 1.5-2.5 - kertainen pidentymä potilaan APTT:n lähtötasoon verrattuna. 
 
 ## Pienimolekulaarista hepariinia voi käyttää ASA:n kanssa samanaikaisesti.
 Oikein
@@ -834,7 +834,7 @@ Oikein. Hyperaldosteronismi nostaa verenpainetta, jolloin reniiniä erittyy väh
 Väärin
 
 ## Päivystykseen hakeutuvan vaikeaa keuhkoahtaumatautia sairastavan potilaan hapetuksesta on huolehdittava keskimäärin 4-5 l/min happivirtauksella.
-Väärin
+Väärin. Koska hypoksemian aiheuttama hengityksen stimulaatio on keskeinen seikka hypokseemisen potilaan hengityksen säätelyssä, lisähappea tulee antaa varovasti tai hallitusti mutta samalla tulee kuitenkin pyrkiä 88–92 %:n saturaatiotasoon. Riittämätön hapenanto pitkittää kudosten hapenpuutetta.
 
 ## Pääsääntöisesti huumeriippuvaiselle endokardiittipotilaalle suostutaan tekemään vain kerran avosydänleikkaus.
 Väärin
@@ -870,7 +870,7 @@ Väärin. Esimerkiksi Dronedaroni sopii erityisen hyvin sepelvaltimotautiin liit
 Väärin. SSS:ssä paras tahdistustapa on AAIR (PubMed). Kammiotahdistuksen (VVIR) tärkein aihe on hidas eteisvärinä. SSS:ssa VVIR lisää eteisvärinän, sydämen vajaatoiminnan, tromboembolian ja kuoleman riskiä.
 
 ## Salmeterolin vaikutusaika on 12 tuntia.
-Oikein. Salmeteroli on beeta-2-agonisti, jota käytetään astman ja muiden keuhkosairauksien hoitoon.
+Oikein. Salmeteroli on pitkävaikutteinen beeta-2-agonisti, jota käytetään astman ja muiden keuhkosairauksien hoitoon.
 
 ## Sarkoidoosi on lievä tauti, eikä koskaan johda pysyvän ventilaatiovajauksen kehittymiseen.
 Väärin
@@ -878,7 +878,7 @@ Väärin
 ## Sarkoidoosille tyypillinen kudosmuutos on granulomatoottinen reaktio johon liittyy kaseaationekroosia
 Väärin. Granunumalomatoottinen tulehdus mutta ei nekroosia. Kaseaationekroosi (reikäjuusto) viittaa tubiin.
 
-## Saturaatio 92 tarkoittaa, että potilas hapettuu tyydyttävän hyvin.
+## Saturaatio 92 % tarkoittaa, että potilas hapettuu tyydyttävän hyvin.
 Oikein(?) Normaali saturaatio on 96-99 % ja sen pitää olla yli 94 %. Happisaturaation väheneminen alle 90 %:n (= siirtyminen oksihemoglobiinin dissosiaatiokäyrän jyrkästi laskevalle osalle) on viite merkityksellisestä happiosapaineen laskusta.
 
 ## Seerumin HDL-kolesterolipitoisuuden nousu pienentää sydäntapahtumien riskiä.
